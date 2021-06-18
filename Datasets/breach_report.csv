@@ -1,0 +1,723 @@
+State,Covered Entity Type,Individuals Affected,Type of Breach,Location of Breached Information,Business Associate Present
+CO,Healthcare Provider,26609,Hacking/IT Incident,Email,No
+WI,Healthcare Provider,907,Unauthorized Access/Disclosure,Email,No
+NH,Healthcare Provider,34878,Hacking/IT Incident,Network Server,No
+CA,Healthcare Provider,500,Theft,Paper/Films,No
+OH,Healthcare Provider,2716,Hacking/IT Incident,"Laptop, Network Server",No
+AZ,Healthcare Provider,717,Loss,Paper/Films,No
+AR,Healthcare Provider,2067,Hacking/IT Incident,Network Server,Yes
+WA,Business Associate,207000,Hacking/IT Incident,Network Server,Yes
+MI,Healthcare Provider,28658,Hacking/IT Incident,Network Server,No
+PA,Healthcare Provider,11135,Unauthorized Access/Disclosure,Other,No
+TX,Healthcare Provider,39213,Hacking/IT Incident,Email,No
+ID,Healthcare Provider,134906,Hacking/IT Incident,Email,No
+OR,Health Plan,50000,Hacking/IT Incident,Network Server,Yes
+MN,Healthcare Provider,1975,Hacking/IT Incident,Network Server,No
+MO,Business Associate,50000,Hacking/IT Incident,Network Server,Yes
+AZ,Health Plan,27390,Hacking/IT Incident,Network Server,Yes
+MA,Healthcare Provider,873,Hacking/IT Incident,Network Server,No
+OH,Business Associate,1008,Hacking/IT Incident,Network Server,Yes
+OR,Business Associate,38387,Hacking/IT Incident,Network Server,Yes
+PA,Health Plan,2872,Unauthorized Access/Disclosure,Paper/Films,No
+UT,Healthcare Provider,8675,Hacking/IT Incident,Network Server,No
+VA,Health Plan,33932,Hacking/IT Incident,Network Server,No
+CA,Healthcare Provider,5983,Hacking/IT Incident,Email,No
+TN,Business Associate,1435,Unauthorized Access/Disclosure,Other,Yes
+TN,Healthcare Provider,70822,Unauthorized Access/Disclosure,Email,No
+PA,Healthcare Provider,11487,Hacking/IT Incident,Email,No
+MI,Business Associate,675,Hacking/IT Incident,Email,Yes
+TX,Healthcare Provider,100487,Hacking/IT Incident,Email,No
+WY,Healthcare Provider,900,Unauthorized Access/Disclosure,Email,No
+CA,Healthcare Provider,2121,Unauthorized Access/Disclosure,Electronic Medical Record,No
+FL,Healthcare Provider,1673,Loss,Paper/Films,No
+ND,Healthcare Provider,1545,Hacking/IT Incident,Email,No
+KY,Health Plan,62950,Unauthorized Access/Disclosure,Network Server,Yes
+MN,Healthcare Provider,4122,Hacking/IT Incident,Email,No
+OH,Healthcare Provider,368100,Hacking/IT Incident,Network Server,No
+CA,Healthcare Provider,900,Theft,Paper/Films,No
+CA,Healthcare Provider,1200,Theft,Paper/Films,No
+MI,Healthcare Provider,47178,Hacking/IT Incident,Email,No
+MI,Healthcare Provider,1749,Hacking/IT Incident,Email,No
+NC,Healthcare Provider,500,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,4500,Hacking/IT Incident,Network Server,No
+OH,Health Plan,49636,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,877,Unauthorized Access/Disclosure,Electronic Medical Record,No
+AZ,Healthcare Provider,100000,Hacking/IT Incident,Network Server,No
+FL,Healthcare Provider,9023,Hacking/IT Incident,Network Server,No
+IA,Healthcare Provider,34000,Hacking/IT Incident,Desktop Computer,No
+FL,Healthcare Provider,1152,Hacking/IT Incident,Network Server,No
+CO,Healthcare Provider,1454,Unauthorized Access/Disclosure,Other,No
+NC,Healthcare Provider,677,Hacking/IT Incident,Network Server,Yes
+PA,Healthcare Provider,7771,Hacking/IT Incident,Email,No
+CA,Business Associate,29982,Hacking/IT Incident,Other,Yes
+GA,Healthcare Provider,79100,Hacking/IT Incident,Desktop Computer,No
+MI,Healthcare Provider,2644,Hacking/IT Incident,Email,No
+NV,Healthcare Provider,6709,Hacking/IT Incident,Email,No
+PA,Healthcare Provider,36086,Hacking/IT Incident,Email,Yes
+TX,Healthcare Provider,3640,Unauthorized Access/Disclosure,Other,No
+PA,Health Plan,19000,Hacking/IT Incident,Email,No
+CA,Healthcare Provider,15600,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,25728,Unauthorized Access/Disclosure,Network Server,No
+TX,Business Associate,7200,Hacking/IT Incident,Network Server,Yes
+VA,Business Associate,11056,Hacking/IT Incident,Email,Yes
+NV,Healthcare Provider,50000,Hacking/IT Incident,Network Server,Yes
+LA,Healthcare Provider,3802,Hacking/IT Incident,"Desktop Computer, Email",Yes
+FL,Healthcare Provider,6000,Hacking/IT Incident,Email,No
+FL,Health Plan,3500000,Hacking/IT Incident,Network Server,Yes
+FL,Healthcare Provider,9148,Unauthorized Access/Disclosure,Electronic Medical Record,No
+LA,Healthcare Provider,2254,Hacking/IT Incident,Email,Yes
+OH,Healthcare Provider,2428,Hacking/IT Incident,Email,No
+MN,Healthcare Provider,8687,Hacking/IT Incident,Network Server,Yes
+MN,Business Associate,1863,Unauthorized Access/Disclosure,Paper/Films,Yes
+VT,Business Associate,15429,Hacking/IT Incident,Email,Yes
+TX,Healthcare Provider,600,Unauthorized Access/Disclosure,Email,No
+FL,Healthcare Provider,13759,Hacking/IT Incident,Electronic Medical Record,No
+VA,Healthcare Provider,1680,Unauthorized Access/Disclosure,Email,No
+AL,Health Plan,1465,Unauthorized Access/Disclosure,Paper/Films,No
+MA,Healthcare Provider,1800,Hacking/IT Incident,Email,No
+WI,Health Plan,899,Hacking/IT Incident,Network Server,No
+MO,Healthcare Provider,648,Hacking/IT Incident,Network Server,Yes
+WA,Business Associate,668,Unauthorized Access/Disclosure,Network Server,Yes
+PA,Health Plan,610,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,640436,Hacking/IT Incident,Network Server,No
+MD,Healthcare Provider,1440,Hacking/IT Incident,Email,No
+WI,Healthcare Provider,760,Unauthorized Access/Disclosure,Electronic Medical Record,No
+WI,Health Plan,1281,Unauthorized Access/Disclosure,Network Server,Yes
+NY,Healthcare Provider,3994,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,20787,Hacking/IT Incident,Email,No
+MA,Healthcare Provider,696,Hacking/IT Incident,Email,Yes
+FL,Healthcare Provider,2340,Loss,Laptop,No
+FL,Healthcare Provider,500,Hacking/IT Incident,"Desktop Computer, Network Server",No
+WA,Healthcare Provider,2543,Hacking/IT Incident,Email,No
+NC,Healthcare Provider,5000,Unauthorized Access/Disclosure,"Desktop Computer, Electronic Medical Record, Network Server",No
+FL,Healthcare Provider,500,Hacking/IT Incident,Network Server,No
+SC,Healthcare Provider,189761,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,1269074,Hacking/IT Incident,Email,Yes
+IN,Health Plan,11988,Unauthorized Access/Disclosure,Paper/Films,Yes
+IL,Healthcare Provider,16089,Unauthorized Access/Disclosure,Email,No
+LA,Business Associate,8085,Hacking/IT Incident,Email,Yes
+NV,Healthcare Provider,2500,Hacking/IT Incident,Network Server,No
+CA,Healthcare Provider,1122,Unauthorized Access/Disclosure,Other,No
+MN,Health Plan,66874,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,7102,Hacking/IT Incident,Network Server,No
+FL,Health Plan,3951,Hacking/IT Incident,Network Server,No
+MA,Healthcare Provider,4075,Hacking/IT Incident,Email,No
+WV,Healthcare Provider,3708,Hacking/IT Incident,Email,No
+PA,Healthcare Provider,3259,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,2850,Hacking/IT Incident,Email,No
+TN,Health Plan,50410,Hacking/IT Incident,"Email, Network Server",Yes
+MO,Health Plan,1020,Unauthorized Access/Disclosure,Paper/Films,Yes
+GA,Health Plan,3443,Unauthorized Access/Disclosure,Paper/Films,Yes
+AZ,Health Plan,518,Unauthorized Access/Disclosure,Paper/Films,Yes
+TX,Health Plan,3748,Unauthorized Access/Disclosure,Paper/Films,Yes
+OH,Health Plan,606,Unauthorized Access/Disclosure,Paper/Films,Yes
+FL,Health Plan,3429,Unauthorized Access/Disclosure,Paper/Films,Yes
+DE,Healthcare Provider,56953,Hacking/IT Incident,Network Server,Yes
+CA,Business Associate,138402,Hacking/IT Incident,Network Server,Yes
+CT,Healthcare Provider,1634,Unauthorized Access/Disclosure,Email,No
+OR,Health Plan,5793,Hacking/IT Incident,Network Server,Yes
+MS,Health Plan,759,Unauthorized Access/Disclosure,Paper/Films,Yes
+GA,Healthcare Provider,1223,Hacking/IT Incident,Network Server,No
+MA,Healthcare Provider,5452,Hacking/IT Incident,Network Server,No
+IN,Health Plan,828,Hacking/IT Incident,Network Server,No
+FL,Healthcare Provider,73825,Hacking/IT Incident,Network Server,No
+AR,Business Associate,3317,Loss,Paper/Films,Yes
+CT,Health Plan,484157,Hacking/IT Incident,Email,Yes
+CA,Health Plan,225000,Hacking/IT Incident,Email,No
+VA,Healthcare Provider,8000,Hacking/IT Incident,Network Server,No
+TN,Health Plan,1340,Unauthorized Access/Disclosure,Email,Yes
+AZ,Healthcare Provider,137110,Hacking/IT Incident,Network Server,No
+IA,Health Plan,536,Unauthorized Access/Disclosure,Email,No
+NC,Healthcare Provider,114834,Hacking/IT Incident,Network Server,No
+NY,Healthcare Provider,6800,Hacking/IT Incident,"Electronic Medical Record, Network Server",No
+NC,Health Plan,149804,Hacking/IT Incident,Email,No
+FL,Business Associate,1290670,Hacking/IT Incident,Email,Yes
+OH,Healthcare Provider,1452,Hacking/IT Incident,Email,No
+MO,Healthcare Provider,4814,Hacking/IT Incident,Email,No
+NE,Healthcare Provider,39912,Hacking/IT Incident,Network Server,Yes
+FL,Business Associate,500,Hacking/IT Incident,Network Server,Yes
+MO,Healthcare Provider,5001,Hacking/IT Incident,Network Server,No
+PA,Healthcare Provider,1298,Hacking/IT Incident,Email,No
+FL,Business Associate,985,Hacking/IT Incident,Email,Yes
+WI,Health Plan,4492,Unauthorized Access/Disclosure,Paper/Films,No
+TN,Healthcare Provider,501,Improper Disposal,Other,No
+CO,Healthcare Provider,2283,Loss,Other Portable Electronic Device,No
+LA,Healthcare Provider,3500,Hacking/IT Incident,Network Server,Yes
+NC,Healthcare Provider,1041,Hacking/IT Incident,Network Server,Yes
+TX,Healthcare Provider,37000,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,69000,Hacking/IT Incident,Email,No
+ME,Healthcare Provider,1639,Hacking/IT Incident,Network Server,No
+FL,Business Associate,1004304,Hacking/IT Incident,Network Server,Yes
+FL,Business Associate,1064,Unauthorized Access/Disclosure,Other,Yes
+FL,Healthcare Provider,979,Unauthorized Access/Disclosure,"Other Portable Electronic Device, Paper/Films",Yes
+KY,Healthcare Provider,695,Unauthorized Access/Disclosure,Paper/Films,Yes
+MO,Healthcare Provider,11187,Unauthorized Access/Disclosure,Electronic Medical Record,No
+TN,Healthcare Provider,20963,Hacking/IT Incident,Email,No
+MA,Healthcare Provider,566,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,3200,Unauthorized Access/Disclosure,Other,No
+PA,Healthcare Provider,299507,Hacking/IT Incident,Network Server,Yes
+IL,Healthcare Provider,261054,Hacking/IT Incident,Network Server,Yes
+UT,Health Plan,774,Unauthorized Access/Disclosure,Desktop Computer,No
+NY,Healthcare Provider,670,Unauthorized Access/Disclosure,Paper/Films,No
+MN,Healthcare Provider,1580,Theft,"Desktop Computer, Laptop, Other Portable Electronic Device",No
+FL,Healthcare Provider,685,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,2255,Unauthorized Access/Disclosure,Email,No
+MA,Health Plan,60545,Hacking/IT Incident,Email,Yes
+MD,Business Associate,878550,Hacking/IT Incident,Network Server,Yes
+KY,Healthcare Provider,859,Unauthorized Access/Disclosure,Other,Yes
+NM,Business Associate,3557,Unauthorized Access/Disclosure,Paper/Films,Yes
+MD,Business Associate,514,Unauthorized Access/Disclosure,Network Server,Yes
+GA,Healthcare Provider,1462,Hacking/IT Incident,Email,No
+WI,Business Associate,28658,Unauthorized Access/Disclosure,Paper/Films,Yes
+NY,Healthcare Provider,1127,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,1925,Unauthorized Access/Disclosure,"Electronic Medical Record, Network Server",No
+NE,Healthcare Provider,216472,Hacking/IT Incident,Network Server,No
+CA,Healthcare Provider,5769,Hacking/IT Incident,Network Server,No
+MA,Business Associate,8022,Unauthorized Access/Disclosure,Paper/Films,Yes
+LA,Healthcare Provider,8000,Hacking/IT Incident,Email,No
+DE,Healthcare Provider,78006,Hacking/IT Incident,Network Server,Yes
+DC,Healthcare Provider,500,Hacking/IT Incident,Network Server,No
+PA,Business Associate,1419,Unauthorized Access/Disclosure,Paper/Films,Yes
+TX,Healthcare Provider,3076,Hacking/IT Incident,Email,No
+CA,Business Associate,11315,Hacking/IT Incident,Network Server,Yes
+AR,Healthcare Provider,524,Theft,Paper/Films,No
+KY,Healthcare Provider,529,Loss,Other,No
+CO,Healthcare Provider,295617,Hacking/IT Incident,Network Server,No
+GA,Healthcare Provider,2000,Theft,Laptop,No
+ID,Healthcare Provider,1866,Hacking/IT Incident,Email,No
+IA,Healthcare Provider,92795,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,36474,Hacking/IT Incident,"Email, Network Server",No
+DE,Healthcare Provider,9930,Unauthorized Access/Disclosure,Email,No
+MI,Healthcare Provider,3500,Unauthorized Access/Disclosure,Electronic Medical Record,No
+GA,Healthcare Provider,1881,Hacking/IT Incident,"Desktop Computer, Network Server",No
+FL,Healthcare Provider,58823,Unauthorized Access/Disclosure,Network Server,No
+GA,Health Plan,10205,Unauthorized Access/Disclosure,Paper/Films,No
+VA,Healthcare Provider,10759,Hacking/IT Incident,"Email, Network Server",No
+OH,Healthcare Provider,16196,Hacking/IT Incident,Network Server,No
+AR,Healthcare Provider,2945,Unauthorized Access/Disclosure,Email,No
+AL,Healthcare Provider,2000,Improper Disposal,Paper/Films,No
+MN,Healthcare Provider,27500,Hacking/IT Incident,Email,No
+MA,Healthcare Provider,176587,Hacking/IT Incident,Network Server,No
+IL,Healthcare Provider,3815,Unauthorized Access/Disclosure,Email,No
+MA,Healthcare Provider,1428,Hacking/IT Incident,Network Server,No
+CA,Healthcare Provider,39881,Hacking/IT Incident,Network Server,Yes
+NC,Healthcare Provider,100000,Loss,Electronic Medical Record,No
+FL,Healthcare Provider,3991,Hacking/IT Incident,Network Server,No
+VA,Healthcare Provider,24000,Hacking/IT Incident,Network Server,Yes
+VA,Healthcare Provider,23846,Hacking/IT Incident,Network Server,Yes
+IA,Healthcare Provider,603,Hacking/IT Incident,Network Server,Yes
+CT,Healthcare Provider,15904,Hacking/IT Incident,Network Server,Yes
+CT,Health Plan,37000,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,44009,Hacking/IT Incident,Network Server,Yes
+IL,Healthcare Provider,4704,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,19788,Hacking/IT Incident,Network Server,Yes
+FL,Healthcare Provider,3370,Theft,Laptop,No
+IA,Business Associate,116131,Hacking/IT Incident,Network Server,Yes
+CA,Health Plan,80000,Hacking/IT Incident,Network Server,No
+WA,Healthcare Provider,8000,Hacking/IT Incident,Network Server,No
+CT,Healthcare Provider,5000,Hacking/IT Incident,Network Server,No
+CT,Healthcare Provider,20727,Hacking/IT Incident,Network Server,No
+ND,Healthcare Provider,35416,Hacking/IT Incident,Email,No
+OH,Business Associate,829454,Hacking/IT Incident,Network Server,Yes
+WA,Healthcare Provider,20838,Hacking/IT Incident,Network Server,No
+NM,Healthcare Provider,4290,Improper Disposal,"Desktop Computer, Laptop",No
+TX,Healthcare Provider,711,Unauthorized Access/Disclosure,Email,No
+IN,Healthcare Provider,11638,Hacking/IT Incident,Email,No
+TN,Healthcare Provider,50965,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,16431,Hacking/IT Incident,Email,No
+PA,Business Associate,14500,Hacking/IT Incident,Email,Yes
+MO,Healthcare Provider,501,Hacking/IT Incident,Email,No
+AR,Healthcare Provider,12000,Unauthorized Access/Disclosure,Email,No
+HI,Healthcare Provider,1784,Unauthorized Access/Disclosure,Paper/Films,No
+FL,Healthcare Provider,1862,Hacking/IT Incident,Email,Yes
+LA,Healthcare Provider,1700,Hacking/IT Incident,Network Server,Yes
+FL,Healthcare Provider,315811,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,77443,Hacking/IT Incident,Network Server,No
+IL,Healthcare Provider,94171,Hacking/IT Incident,Network Server,Yes
+AR,Healthcare Provider,4916,Hacking/IT Incident,Network Server,Yes
+PA,Healthcare Provider,86412,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,8000,Hacking/IT Incident,Network Server,No
+CA,Healthcare Provider,3429,Hacking/IT Incident,Email,Yes
+CA,Healthcare Provider,1440,Hacking/IT Incident,Email,No
+MI,Healthcare Provider,1062,Unauthorized Access/Disclosure,Email,No
+TX,Healthcare Provider,591,Theft,Paper/Films,No
+CT,Healthcare Provider,1050,Hacking/IT Incident,Network Server,Yes
+OH,Healthcare Provider,1677,Unauthorized Access/Disclosure,Other,No
+NJ,Healthcare Provider,884,Hacking/IT Incident,Network Server,No
+PA,Healthcare Provider,25000,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,2000,Unauthorized Access/Disclosure,Electronic Medical Record,No
+CT,Healthcare Provider,21617,Hacking/IT Incident,Network Server,Yes
+VA,Business Associate,1678,Hacking/IT Incident,Email,Yes
+WA,Healthcare Provider,885,Theft,Paper/Films,No
+GA,Healthcare Clearing House,45732,Hacking/IT Incident,Email,No
+CT,Healthcare Provider,95000,Hacking/IT Incident,Network Server,Yes
+PA,Healthcare Provider,353616,Hacking/IT Incident,Email,No
+IA,Healthcare Provider,1138,Hacking/IT Incident,Email,No
+TX,Health Plan,4973,Hacking/IT Incident,Email,No
+MI,Healthcare Provider,2219,Unauthorized Access/Disclosure,Network Server,No
+ME,Healthcare Provider,4500,Hacking/IT Incident,Network Server,Yes
+TN,Healthcare Provider,1360,Unauthorized Access/Disclosure,Email,No
+NJ,Healthcare Provider,74877,Hacking/IT Incident,Email,No
+MN,Healthcare Provider,1614,Unauthorized Access/Disclosure,Electronic Medical Record,No
+NY,Healthcare Provider,603,Hacking/IT Incident,Network Server,Yes
+OH,Healthcare Provider,749,Unauthorized Access/Disclosure,Email,No
+SC,Healthcare Provider,12636,Unauthorized Access/Disclosure,Paper/Films,No
+VA,Business Associate,1016,Hacking/IT Incident,Email,Yes
+VA,Healthcare Provider,6258,Hacking/IT Incident,Email,No
+NM,Healthcare Provider,193223,Hacking/IT Incident,Other,Yes
+OH,Healthcare Provider,118874,Hacking/IT Incident,Network Server,Yes
+TX,Healthcare Provider,2235,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,13619,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,7164,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,2527,Hacking/IT Incident,Network Server,No
+CA,Healthcare Provider,563,Unauthorized Access/Disclosure,Email,No
+SC,Healthcare Provider,2851,Hacking/IT Incident,Network Server,No
+FL,Health Plan,6034,Hacking/IT Incident,Network Server,No
+OH,Business Associate,1474000,Unauthorized Access/Disclosure,Email,Yes
+FL,Healthcare Provider,2374,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,16038,Hacking/IT Incident,Email,No
+MI,Healthcare Provider,26861,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,228009,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,3414,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,65839,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,2850,Hacking/IT Incident,Electronic Medical Record,No
+KY,Healthcare Provider,13375,Hacking/IT Incident,Email,No
+MD,Healthcare Provider,668,Hacking/IT Incident,Network Server,Yes
+PA,Healthcare Provider,717,Unauthorized Access/Disclosure,Electronic Medical Record,No
+LA,Healthcare Provider,12861,Hacking/IT Incident,Network Server,No
+MA,Healthcare Provider,74251,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,4004,Unauthorized Access/Disclosure,Electronic Medical Record,No
+NY,Healthcare Provider,1135,Theft,Paper/Films,No
+MO,Healthcare Provider,189736,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,5600,Hacking/IT Incident,Network Server,No
+VA,Healthcare Provider,683,Hacking/IT Incident,Network Server,Yes
+CO,Healthcare Provider,2000,Hacking/IT Incident,"Desktop Computer, Network Server",No
+CA,Healthcare Provider,2691,Hacking/IT Incident,Email,No
+NJ,Healthcare Provider,31550,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,5226,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,314829,Hacking/IT Incident,Network Server,Yes
+KY,Healthcare Provider,2343,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,81552,Hacking/IT Incident,Network Server,Yes
+MA,Healthcare Provider,71160,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,5242,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,73536,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,47272,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,5890,Hacking/IT Incident,Network Server,Yes
+IA,Healthcare Provider,699,Hacking/IT Incident,Network Server,Yes
+DE,Healthcare Provider,1229,Hacking/IT Incident,Network Server,Yes
+CT,Healthcare Provider,2633,Hacking/IT Incident,Network Server,Yes
+TX,Healthcare Provider,1987,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,141669,Hacking/IT Incident,Network Server,Yes
+MA,Healthcare Provider,87420,Hacking/IT Incident,Network Server,Yes
+NJ,Healthcare Provider,3657,Hacking/IT Incident,Network Server,Yes
+PA,Healthcare Provider,81487,Hacking/IT Incident,Network Server,Yes
+DC,Healthcare Provider,44308,Hacking/IT Incident,Network Server,No
+NY,Healthcare Provider,175803,Hacking/IT Incident,Network Server,Yes
+NH,Healthcare Provider,18623,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,87535,Hacking/IT Incident,Network Server,Yes
+MA,Healthcare Provider,4271,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,2818,Hacking/IT Incident,Other,No
+VA,Healthcare Provider,3061,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,43667,Hacking/IT Incident,Network Server,Yes
+MA,Healthcare Provider,27244,Hacking/IT Incident,Network Server,Yes
+VA,Healthcare Provider,54151,Hacking/IT Incident,Network Server,Yes
+MD,Healthcare Provider,13041,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,695,Hacking/IT Incident,Email,No
+SC,Healthcare Provider,54869,Hacking/IT Incident,Network Server,Yes
+OH,Business Associate,58123,Hacking/IT Incident,Email,Yes
+NY,Healthcare Provider,23000,Unauthorized Access/Disclosure,Electronic Medical Record,No
+CA,Healthcare Provider,33575,Hacking/IT Incident,Network Server,Yes
+CO,Healthcare Provider,343493,Hacking/IT Incident,Network Server,Yes
+CO,Healthcare Provider,93642,Hacking/IT Incident,Network Server,Yes
+CO,Healthcare Provider,3845,Hacking/IT Incident,Network Server,Yes
+CO,Healthcare Provider,2650,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,4500,Hacking/IT Incident,Network Server,Yes
+WA,Healthcare Provider,244761,Hacking/IT Incident,Network Server,Yes
+PA,Healthcare Provider,92064,Hacking/IT Incident,Network Server,Yes
+PA,Business Associate,3905,Hacking/IT Incident,Email,Yes
+CT,Healthcare Provider,7777,Hacking/IT Incident,Email,No
+OK,Healthcare Provider,1076,Improper Disposal,Paper/Films,No
+WI,Healthcare Provider,2979,Unauthorized Access/Disclosure,Paper/Films,No
+SC,Healthcare Provider,6000,Hacking/IT Incident,Email,No
+FL,Healthcare Provider,4056,Theft,"Other Portable Electronic Device, Paper/Films",No
+LA,Healthcare Provider,308169,Hacking/IT Incident,"Desktop Computer, Email, Network Server",No
+MI,Healthcare Provider,52711,Hacking/IT Incident,Network Server,Yes
+OH,Healthcare Provider,2869,Theft,"Other, Other Portable Electronic Device",No
+UT,Healthcare Provider,112124,Hacking/IT Incident,Email,No
+AZ,Healthcare Provider,244813,Hacking/IT Incident,Network Server,No
+AK,Healthcare Provider,1538,Hacking/IT Incident,Network Server,No
+SC,Healthcare Provider,3000,Hacking/IT Incident,Email,No
+KY,Business Associate,1021,Hacking/IT Incident,Network Server,Yes
+CO,Healthcare Provider,15000,Hacking/IT Incident,Network Server,No
+OH,Healthcare Provider,740,Theft,Paper/Films,No
+WA,Healthcare Provider,179189,Hacking/IT Incident,Network Server,Yes
+PA,Healthcare Provider,16579,Hacking/IT Incident,Email,No
+WA,Health Plan,648,Unauthorized Access/Disclosure,Email,No
+KY,Health Plan,501,Hacking/IT Incident,Other,No
+PA,Healthcare Provider,10393,Unauthorized Access/Disclosure,Email,No
+NY,Healthcare Provider,1164,Hacking/IT Incident,"Email, Network Server",Yes
+KY,Business Associate,139114,Hacking/IT Incident,Email,Yes
+TX,Healthcare Provider,1768,Loss,Other Portable Electronic Device,No
+PA,Healthcare Provider,177023,Hacking/IT Incident,Network Server,No
+PA,Business Associate,8100,Hacking/IT Incident,Email,Yes
+TX,Healthcare Provider,2102,Hacking/IT Incident,Email,No
+WI,Healthcare Provider,1907,Unauthorized Access/Disclosure,Paper/Films,Yes
+TX,Healthcare Provider,15958,Unauthorized Access/Disclosure,Other,No
+ID,Healthcare Provider,543,Unauthorized Access/Disclosure,Email,No
+IA,Healthcare Provider,914,Unauthorized Access/Disclosure,Paper/Films,No
+AR,Healthcare Provider,772,Unauthorized Access/Disclosure,Electronic Medical Record,No
+CT,Healthcare Provider,3736,Hacking/IT Incident,Email,No
+MD,Healthcare Provider,102800,Hacking/IT Incident,Network Server,No
+IN,Healthcare Provider,7264,Hacking/IT Incident,Network Server,No
+ME,Business Associate,657392,Hacking/IT Incident,"Network Server, Other",Yes
+CA,Healthcare Provider,738,Theft,Laptop,No
+NY,Healthcare Provider,1789,Loss,Other,Yes
+IL,Healthcare Provider,4120,Hacking/IT Incident,Email,No
+PA,Healthcare Provider,7557,Unauthorized Access/Disclosure,Email,No
+OH,Healthcare Provider,7447,Hacking/IT Incident,"Electronic Medical Record, Network Server",No
+WV,Healthcare Provider,3127,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,4950,Hacking/IT Incident,Network Server,No
+MI,Healthcare Provider,6073,Hacking/IT Incident,"Email, Network Server",No
+CO,Healthcare Provider,2553,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,19908,Unauthorized Access/Disclosure,Network Server,No
+MA,Healthcare Provider,129571,Hacking/IT Incident,Network Server,No
+MD,Healthcare Provider,33896,Hacking/IT Incident,Email,No
+IL,Healthcare Provider,72143,Theft,"Other Portable Electronic Device, Paper/Films",No
+NY,Healthcare Provider,1974,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,1237,Unauthorized Access/Disclosure,Other,No
+MN,Healthcare Provider,1500,Theft,"Other, Paper/Films",No
+PA,Healthcare Provider,25554,Hacking/IT Incident,Network Server,No
+UT,Healthcare Provider,10000,Hacking/IT Incident,Email,No
+MA,Business Associate,78070,Hacking/IT Incident,Email,Yes
+DE,Healthcare Provider,4139,Unauthorized Access/Disclosure,Paper/Films,No
+MD,Healthcare Provider,47754,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,69777,Hacking/IT Incident,Network Server,No
+WI,Business Associate,1441,Hacking/IT Incident,Email,Yes
+FL,Health Plan,50439,Unauthorized Access/Disclosure,Paper/Films,No
+NY,Healthcare Provider,1002,Hacking/IT Incident,Email,No
+WI,Healthcare Provider,1853,Unauthorized Access/Disclosure,Other,No
+CA,Healthcare Provider,1463,Theft,Paper/Films,No
+CA,Healthcare Provider,900,Hacking/IT Incident,Network Server,No
+FL,Business Associate,2251,Hacking/IT Incident,Other,Yes
+TX,Business Associate,500,Theft,"Desktop Computer, Laptop, Other Portable Electronic Device",Yes
+AK,Healthcare Provider,1158,Hacking/IT Incident,Electronic Medical Record,Yes
+CA,Healthcare Provider,8394,Hacking/IT Incident,Network Server,No
+NC,Business Associate,21800,Hacking/IT Incident,"Desktop Computer, Network Server",Yes
+NM,Healthcare Provider,500,Hacking/IT Incident,Email,No
+CA,Health Plan,35883,Hacking/IT Incident,Email,No
+PA,Business Associate,2393,Unauthorized Access/Disclosure,Other,Yes
+FL,Healthcare Provider,640000,Hacking/IT Incident,Network Server,No
+NC,Healthcare Provider,7000,Hacking/IT Incident,Network Server,No
+FL,Health Plan,2943,Unauthorized Access/Disclosure,Other,Yes
+TN,Healthcare Provider,656,Hacking/IT Incident,Desktop Computer,No
+CA,Healthcare Provider,786,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,6265,Hacking/IT Incident,"Desktop Computer, Network Server",No
+NY,Business Associate,5878,Unauthorized Access/Disclosure,Email,Yes
+TX,Business Associate,274837,Hacking/IT Incident,Network Server,Yes
+TX,Healthcare Provider,6169,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,2835,Hacking/IT Incident,Email,No
+PA,Business Associate,971,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,763,Hacking/IT Incident,Network Server,Yes
+IL,Healthcare Provider,1162,Hacking/IT Incident,Email,No
+MI,Health Plan,572,Hacking/IT Incident,Email,No
+IA,Health Plan,11581,Unauthorized Access/Disclosure,Email,No
+AR,Healthcare Provider,9745,Unauthorized Access/Disclosure,Email,No
+TX,Healthcare Provider,1045,Unauthorized Access/Disclosure,Network Server,No
+FL,Healthcare Provider,538,Unauthorized Access/Disclosure,Email,No
+CA,Business Associate,62807,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,47767,Hacking/IT Incident,"Electronic Medical Record, Email, Network Server",No
+MA,Healthcare Provider,12472,Hacking/IT Incident,Network Server,No
+OH,Healthcare Provider,10974,Hacking/IT Incident,Network Server,No
+SC,Healthcare Provider,35498,Hacking/IT Incident,"Desktop Computer, Network Server, Other Portable Electronic Device",No
+CA,Healthcare Provider,9271,Hacking/IT Incident,Network Server,Yes
+OR,Health Plan,49511,Unauthorized Access/Disclosure,Other,Yes
+NC,Business Associate,11650,Hacking/IT Incident,Email,Yes
+OR,Healthcare Provider,606,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,19000,Hacking/IT Incident,Email,No
+FL,Healthcare Provider,28268,Hacking/IT Incident,Email,No
+CA,Healthcare Provider,846,Theft,"Desktop Computer, Paper/Films",No
+NC,Business Associate,58000,Hacking/IT Incident,Network Server,Yes
+NY,Health Plan,644,Unauthorized Access/Disclosure,Paper/Films,Yes
+OH,Healthcare Provider,3660,Hacking/IT Incident,Email,No
+AZ,Health Plan,1013956,Hacking/IT Incident,"Email, Network Server",No
+TX,Business Associate,1876,Hacking/IT Incident,Email,Yes
+MO,Healthcare Provider,5074,Hacking/IT Incident,Email,No
+CO,Healthcare Provider,6339,Hacking/IT Incident,"Electronic Medical Record, Network Server",No
+UT,Healthcare Provider,1909,Hacking/IT Incident,Email,No
+CA,Healthcare Provider,633,Loss,Other Portable Electronic Device,No
+CA,Healthcare Provider,974,Theft,Desktop Computer,No
+IL,Business Associate,917,Unauthorized Access/Disclosure,"Other, Paper/Films",Yes
+CA,Healthcare Provider,1900,Theft,Laptop,No
+PA,Health Plan,19042,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,1945,Hacking/IT Incident,Email,No
+AR,Healthcare Provider,3565,Unauthorized Access/Disclosure,Email,No
+FL,Healthcare Provider,19000,Loss,Network Server,No
+TX,Healthcare Provider,6033,Unauthorized Access/Disclosure,Paper/Films,No
+GA,Healthcare Provider,1853,Unauthorized Access/Disclosure,"Email, Paper/Films",No
+CA,Business Associate,36205,Hacking/IT Incident,Network Server,Yes
+IN,Healthcare Provider,500,Improper Disposal,Paper/Films,Yes
+IN,Healthcare Provider,500,Improper Disposal,Paper/Films,Yes
+IN,Healthcare Provider,900,Improper Disposal,Paper/Films,Yes
+IN,Healthcare Provider,976,Improper Disposal,Paper/Films,Yes
+IN,Healthcare Provider,1000,Improper Disposal,Paper/Films,Yes
+IN,Healthcare Provider,1000,Improper Disposal,Paper/Films,Yes
+IN,Healthcare Provider,550000,Improper Disposal,Paper/Films,Yes
+MI,Healthcare Provider,3800,Hacking/IT Incident,Network Server,Yes
+MI,Business Associate,14931,Hacking/IT Incident,Network Server,Yes
+MD,Health Plan,2756,Unauthorized Access/Disclosure,Electronic Medical Record,No
+PA,Healthcare Provider,34113,Hacking/IT Incident,Email,No
+OH,Healthcare Provider,14419,Hacking/IT Incident,Network Server,No
+PA,Healthcare Provider,805,Unauthorized Access/Disclosure,Electronic Medical Record,No
+MI,Business Associate,608,Unauthorized Access/Disclosure,Email,Yes
+AK,Healthcare Provider,13146,Hacking/IT Incident,"Laptop, Network Server",No
+CA,Business Associate,3728,Unauthorized Access/Disclosure,Email,Yes
+NY,Healthcare Provider,595,Improper Disposal,Paper/Films,No
+AZ,Healthcare Provider,10190,Hacking/IT Incident,Email,No
+CA,Healthcare Provider,5357,Unauthorized Access/Disclosure,Email,No
+OH,Healthcare Provider,3683,Hacking/IT Incident,Network Server,No
+NJ,Healthcare Provider,26465,Hacking/IT Incident,Network Server,No
+MI,Business Associate,7422,Hacking/IT Incident,Other,Yes
+NE,Healthcare Provider,1311,Unauthorized Access/Disclosure,Electronic Medical Record,No
+MO,Business Associate,287876,Hacking/IT Incident,Email,Yes
+OH,Business Associate,30132,Hacking/IT Incident,Email,Yes
+IL,Healthcare Provider,4824,Unauthorized Access/Disclosure,Electronic Medical Record,No
+CT,Business Associate,38529,Hacking/IT Incident,Email,Yes
+CT,Healthcare Provider,1255,Unauthorized Access/Disclosure,Email,No
+IN,Healthcare Provider,111372,Hacking/IT Incident,Email,No
+MI,Healthcare Provider,1981,Unauthorized Access/Disclosure,Network Server,No
+TX,Business Associate,500,Hacking/IT Incident,Laptop,Yes
+FL,Healthcare Provider,3314,Hacking/IT Incident,Network Server,No
+MO,Healthcare Provider,518,Hacking/IT Incident,Email,No
+MI,Healthcare Provider,999,Unauthorized Access/Disclosure,Email,No
+AR,Healthcare Provider,13968,Hacking/IT Incident,Email,No
+NC,Healthcare Provider,1081,Unauthorized Access/Disclosure,Email,No
+MD,Healthcare Provider,2550,Hacking/IT Incident,Email,No
+MI,Healthcare Provider,112211,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,1987,Theft,Other Portable Electronic Device,No
+CA,Healthcare Provider,233835,Hacking/IT Incident,Email,No
+CA,Healthcare Provider,912,Unauthorized Access/Disclosure,"Electronic Medical Record, Laptop, Other",No
+WI,Healthcare Provider,27137,Hacking/IT Incident,"Email, Network Server",No
+CT,Healthcare Provider,2651,Hacking/IT Incident,Email,No
+MD,Healthcare Provider,18481,Hacking/IT Incident,Email,No
+KS,Healthcare Provider,3680,Hacking/IT Incident,Email,No
+AZ,Healthcare Provider,74122,Unauthorized Access/Disclosure,Electronic Medical Record,No
+TX,Healthcare Provider,507,Hacking/IT Incident,Email,No
+NM,Healthcare Provider,1843,Hacking/IT Incident,Email,No
+PA,Healthcare Provider,13911,Hacking/IT Incident,Email,No
+DE,Healthcare Provider,4262,Hacking/IT Incident,Network Server,No
+WA,Business Associate,3009,Hacking/IT Incident,Email,Yes
+NJ,Healthcare Provider,3000,Hacking/IT Incident,Email,No
+CA,Health Plan,1658,Theft,"Laptop, Other Portable Electronic Device",No
+UT,Healthcare Provider,5000,Hacking/IT Incident,Email,No
+MD,Business Associate,3600,Hacking/IT Incident,Email,Yes
+MO,Healthcare Provider,14795,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,57411,Hacking/IT Incident,Network Server,No
+MN,Healthcare Provider,683,Hacking/IT Incident,Email,No
+DE,Healthcare Provider,9875,Unauthorized Access/Disclosure,"Electronic Medical Record, Network Server",No
+DE,Healthcare Provider,131825,Hacking/IT Incident,"Desktop Computer, Email, Laptop, Network Server",No
+PA,Business Associate,897,Hacking/IT Incident,Network Server,Yes
+CA,Healthcare Provider,10700,Hacking/IT Incident,Desktop Computer,No
+OH,Healthcare Provider,903,Unauthorized Access/Disclosure,Electronic Medical Record,No
+AZ,Healthcare Provider,1000,Theft,Network Server,No
+NJ,Health Plan,2300,Hacking/IT Incident,Network Server,No
+NV,Healthcare Provider,702,Unauthorized Access/Disclosure,Paper/Films,No
+OH,Healthcare Provider,1731,Theft,Paper/Films,No
+IL,Health Plan,575,Unauthorized Access/Disclosure,Email,No
+CA,Healthcare Provider,232772,Hacking/IT Incident,Email,No
+UT,Healthcare Provider,3670,Hacking/IT Incident,Email,No
+CA,Healthcare Provider,39700,Hacking/IT Incident,Email,No
+IN,Healthcare Provider,35804,Hacking/IT Incident,Email,No
+MN,Healthcare Provider,1415,Hacking/IT Incident,Email,No
+NC,Healthcare Provider,19556,Hacking/IT Incident,Network Server,No
+MA,Healthcare Provider,2999,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,500,Theft,Laptop,Yes
+NY,Healthcare Provider,298532,Hacking/IT Incident,Network Server,Yes
+NJ,Health Plan,1945,Hacking/IT Incident,Network Server,Yes
+GA,Business Associate,22894,Theft,Laptop,Yes
+CO,Healthcare Provider,2793,Theft,Other Portable Electronic Device,No
+IL,Healthcare Provider,6681,Unauthorized Access/Disclosure,Network Server,No
+AR,Healthcare Provider,15240,Hacking/IT Incident,Email,No
+CO,Healthcare Provider,710,Unauthorized Access/Disclosure,"Network Server, Other Portable Electronic Device",No
+CT,Healthcare Provider,800,Unauthorized Access/Disclosure,Desktop Computer,No
+NC,Business Associate,15010,Hacking/IT Incident,Email,Yes
+MI,Healthcare Provider,75202,Hacking/IT Incident,Email,No
+NY,Business Associate,57207,Hacking/IT Incident,Network Server,Yes
+FL,Healthcare Provider,650,Hacking/IT Incident,Email,No
+MO,Health Plan,696,Unauthorized Access/Disclosure,Paper/Films,No
+CA,Healthcare Provider,2360,Unauthorized Access/Disclosure,Network Server,No
+WI,Healthcare Provider,2029,Hacking/IT Incident,Email,No
+TX,Health Plan,5103,Hacking/IT Incident,Email,No
+IL,Healthcare Provider,14488,Unauthorized Access/Disclosure,Email,No
+NY,Healthcare Provider,737,Hacking/IT Incident,Email,No
+NM,Healthcare Provider,500,Theft,Desktop Computer,No
+IA,Healthcare Provider,7573,Hacking/IT Incident,Email,No
+NY,Business Associate,170000,Hacking/IT Incident,Network Server,Yes
+UT,Business Associate,14500,Hacking/IT Incident,Email,Yes
+TX,Healthcare Provider,1893,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,166077,Hacking/IT Incident,Email,No
+TN,Healthcare Provider,81146,Hacking/IT Incident,Email,No
+NJ,Healthcare Provider,12414,Hacking/IT Incident,Network Server,No
+MA,Business Associate,1277,Hacking/IT Incident,Email,Yes
+TX,Healthcare Provider,45748,Hacking/IT Incident,Email,No
+VA,Healthcare Provider,1475,Hacking/IT Incident,Network Server,No
+MN,Health Plan,3335,Hacking/IT Incident,Network Server,Yes
+AZ,Healthcare Provider,530,Theft,Laptop,No
+IL,Healthcare Provider,16167,Hacking/IT Incident,Email,No
+WV,Healthcare Provider,1169,Hacking/IT Incident,"Network Server, Other",Yes
+VA,Healthcare Provider,1657,Hacking/IT Incident,"Network Server, Other",Yes
+NY,Healthcare Provider,2015,Hacking/IT Incident,"Network Server, Other",Yes
+TX,Healthcare Provider,5930,Hacking/IT Incident,"Network Server, Other",Yes
+NY,Healthcare Provider,2633,Hacking/IT Incident,"Network Server, Other",Yes
+TX,Healthcare Provider,1700,Hacking/IT Incident,"Network Server, Other",Yes
+NY,Healthcare Provider,2863,Hacking/IT Incident,"Network Server, Other",Yes
+NY,Healthcare Provider,1890,Hacking/IT Incident,"Network Server, Other",Yes
+NY,Healthcare Provider,9302,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,15808,Hacking/IT Incident,"Network Server, Other",Yes
+NY,Healthcare Provider,1957,Hacking/IT Incident,"Network Server, Other",Yes
+NY,Healthcare Provider,804,Hacking/IT Incident,"Network Server, Other",Yes
+NY,Healthcare Provider,9058,Hacking/IT Incident,"Network Server, Other",Yes
+KS,Healthcare Provider,17214,Hacking/IT Incident,Network Server,No
+IN,Healthcare Provider,3593,Hacking/IT Incident,"Network Server, Other",Yes
+NY,Healthcare Provider,38693,Hacking/IT Incident,"Network Server, Other",Yes
+PA,Healthcare Provider,688,Unauthorized Access/Disclosure,Email,No
+IN,Healthcare Provider,1360,Hacking/IT Incident,"Desktop Computer, Email, Other",No
+NY,Health Plan,2645,Hacking/IT Incident,"Email, Other",No
+NY,Healthcare Provider,674,Hacking/IT Incident,"Email, Other",No
+CT,Healthcare Provider,6846,Hacking/IT Incident,Network Server,No
+MN,Health Plan,934,Unauthorized Access/Disclosure,Paper/Films,Yes
+NJ,Healthcare Provider,11747,Hacking/IT Incident,Email,No
+CA,Healthcare Provider,1531,Unauthorized Access/Disclosure,Paper/Films,No
+TX,Healthcare Provider,30049,Hacking/IT Incident,Network Server,No
+NC,Healthcare Provider,4564,Hacking/IT Incident,Email,No
+CA,Healthcare Provider,199548,Hacking/IT Incident,Email,No
+ME,Healthcare Provider,11308,Hacking/IT Incident,Email,No
+NJ,Healthcare Provider,8031,Unauthorized Access/Disclosure,Email,No
+FL,Healthcare Provider,3600,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,12689,Hacking/IT Incident,Network Server,No
+NM,Healthcare Provider,28847,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,12000,Unauthorized Access/Disclosure,Electronic Medical Record,No
+MI,Healthcare Provider,4013,Unauthorized Access/Disclosure,Electronic Medical Record,No
+OK,Healthcare Provider,500,Loss,Other Portable Electronic Device,No
+IL,Healthcare Provider,12578,Hacking/IT Incident,Email,No
+FL,Health Plan,4662,Unauthorized Access/Disclosure,Other Portable Electronic Device,No
+IL,Healthcare Provider,811,Loss,Paper/Films,No
+MD,Healthcare Provider,3145,Hacking/IT Incident,Email,No
+WY,Healthcare Provider,17549,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,530,Unauthorized Access/Disclosure,Electronic Medical Record,No
+CA,Healthcare Provider,62000,Hacking/IT Incident,Email,No
+NC,Healthcare Provider,1002,Theft,Laptop,No
+OH,Healthcare Provider,2636,Hacking/IT Incident,Email,No
+TN,Healthcare Provider,2000,Hacking/IT Incident,Network Server,No
+NY,Healthcare Provider,1021,Hacking/IT Incident,Email,No
+CO,Healthcare Provider,7668,Hacking/IT Incident,Email,No
+IL,Healthcare Provider,3700,Hacking/IT Incident,"Electronic Medical Record, Other",No
+TX,Healthcare Provider,10000,Hacking/IT Incident,Email,No
+IL,Healthcare Provider,1486,Hacking/IT Incident,Email,No
+NE,Healthcare Provider,1149,Unauthorized Access/Disclosure,Electronic Medical Record,No
+NY,Healthcare Provider,125000,Hacking/IT Incident,Email,No
+IL,Healthcare Provider,1481,Hacking/IT Incident,Email,No
+MD,Healthcare Provider,536,Hacking/IT Incident,Email,No
+NJ,Healthcare Provider,851,Hacking/IT Incident,"Network Server, Other",Yes
+MN,Healthcare Provider,80000,Hacking/IT Incident,Network Server,No
+NY,Healthcare Provider,3977,Hacking/IT Incident,Email,No
+MO,Healthcare Provider,595,Unauthorized Access/Disclosure,Paper/Films,No
+MO,Healthcare Provider,107054,Hacking/IT Incident,"Electronic Medical Record, Network Server",No
+PA,Healthcare Provider,1559,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,14673,Hacking/IT Incident,Email,No
+CA,Healthcare Provider,114007,Hacking/IT Incident,Email,No
+IN,Business Associate,3582,Hacking/IT Incident,Email,Yes
+NC,Healthcare Provider,3716,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,500,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,26312,Hacking/IT Incident,Network Server,No
+MO,Healthcare Provider,3237,Unauthorized Access/Disclosure,"Email, Laptop",No
+CA,Healthcare Provider,1189,Hacking/IT Incident,Email,No
+MO,Healthcare Provider,152000,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,31787,Hacking/IT Incident,Network Server,No
+WI,Business Associate,955,Hacking/IT Incident,Other,Yes
+MT,Healthcare Provider,140209,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,1655,Unauthorized Access/Disclosure,Email,No
+AR,Healthcare Provider,4211,Loss,Other Portable Electronic Device,No
+LA,Healthcare Provider,7000,Hacking/IT Incident,Email,No
+KY,Health Plan,756,Unauthorized Access/Disclosure,Email,No
+NE,Healthcare Provider,48000,Hacking/IT Incident,"Desktop Computer, Electronic Medical Record, Network Server",No
+OK,Healthcare Provider,500,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,3290,Hacking/IT Incident,Email,No
+FL,Healthcare Provider,528188,Hacking/IT Incident,Network Server,No
+MD,Business Associate,55637,Hacking/IT Incident,Email,Yes
+MD,Business Associate,589,Hacking/IT Incident,Email,Yes
+ME,Healthcare Provider,22000,Hacking/IT Incident,Email,No
+AL,Healthcare Provider,391472,Hacking/IT Incident,Network Server,No
+IA,Healthcare Provider,927,Hacking/IT Incident,Email,No
+MI,Healthcare Provider,1500,Hacking/IT Incident,Network Server,No
+OH,Healthcare Provider,3537,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,1751,Hacking/IT Incident,Network Server,No
+UT,Healthcare Provider,320000,Hacking/IT Incident,Network Server,No
+NJ,Healthcare Provider,9700,Hacking/IT Incident,"Desktop Computer, Network Server",No
+NY,Healthcare Provider,2158,Hacking/IT Incident,Email,No
+OK,Healthcare Provider,550,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,1357,Hacking/IT Incident,Email,No
+IA,Healthcare Provider,5030,Hacking/IT Incident,Email,No
+MN,Healthcare Provider,1938,Hacking/IT Incident,Network Server,No
+MA,Healthcare Provider,750,Hacking/IT Incident,Email,No
+AR,Healthcare Provider,15113,Hacking/IT Incident,"Electronic Medical Record, Network Server",No
+KS,Healthcare Provider,773,Hacking/IT Incident,Network Server,No
+NJ,Healthcare Provider,844,Hacking/IT Incident,Email,No
+VA,Healthcare Provider,634,Hacking/IT Incident,Desktop Computer,No
+WI,Healthcare Provider,114985,Hacking/IT Incident,Other,Yes
+MO,Healthcare Provider,14402,Hacking/IT Incident,Email,No
+NM,Healthcare Provider,183370,Hacking/IT Incident,Email,No
+OH,Healthcare Provider,111555,Hacking/IT Incident,Other,Yes
+NY,Healthcare Provider,743,Theft,Laptop,No
+OH,Healthcare Provider,536,Hacking/IT Incident,Network Server,No
+NJ,Business Associate,102000,Hacking/IT Incident,Email,Yes
+MD,Healthcare Provider,2696,Hacking/IT Incident,Email,No
+TN,Healthcare Provider,409789,Unauthorized Access/Disclosure,Network Server,No
+MN,Healthcare Provider,2085,Hacking/IT Incident,Network Server,Yes
+PA,Healthcare Provider,3904,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,4559,Hacking/IT Incident,Email,No
+NE,Health Plan,39675,Hacking/IT Incident,Email,No
+OH,Healthcare Provider,6572,Hacking/IT Incident,Network Server,No
+NY,Business Associate,39649,Hacking/IT Incident,Email,Yes
+MN,Business Associate,11500000,Hacking/IT Incident,Network Server,Yes
+IL,Healthcare Provider,1600,Theft,Electronic Medical Record,No
+VA,Health Plan,2964778,Hacking/IT Incident,Network Server,No
+AR,Healthcare Provider,5400,Hacking/IT Incident,Email,No
+MO,Healthcare Provider,141165,Hacking/IT Incident,Network Server,No
+MN,Business Associate,90000,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,372043,Hacking/IT Incident,Email,No
+NY,Healthcare Provider,7048,Hacking/IT Incident,Email,No
+MD,Health Plan,87400,Hacking/IT Incident,Email,No
+OH,Healthcare Provider,1012,Hacking/IT Incident,Network Server,No
+MO,Healthcare Provider,520,Hacking/IT Incident,Email,No
+IN,Healthcare Provider,106000,Unauthorized Access/Disclosure,"Desktop Computer, Electronic Medical Record, Email, Laptop, Network Server",No
+MI,Healthcare Provider,978,Hacking/IT Incident,Network Server,No
+CO,Healthcare Provider,7515,Hacking/IT Incident,Email,No
+FL,Business Associate,501,Hacking/IT Incident,Network Server,Yes
+NC,Healthcare Provider,500,Hacking/IT Incident,Network Server,No
+GA,Healthcare Provider,16819,Hacking/IT Incident,Email,No
+MN,Health Plan,20536,Unauthorized Access/Disclosure,Other,No
+,Healthcare Clearing House,1565338,Unauthorized Access/Disclosure,Network Server,No
+MI,Healthcare Provider,1100,Hacking/IT Incident,Email,Yes
+MN,Healthcare Provider,10993,Hacking/IT Incident,"Email, Network Server",No
+CT,Healthcare Provider,25148,Hacking/IT Incident,Network Server,No
+IL,Health Plan,676,Unauthorized Access/Disclosure,Other Portable Electronic Device,No
+IN,Healthcare Provider,3568,Hacking/IT Incident,Email,No
+MA,Business Associate,206695,Hacking/IT Incident,Network Server,Yes
+NY,Healthcare Provider,537,Hacking/IT Incident,Network Server,No
+NY,Healthcare Provider,970,Hacking/IT Incident,Email,No
+NJ,Healthcare Provider,24176,Hacking/IT Incident,Network Server,No
+NY,Healthcare Provider,1308,Hacking/IT Incident,Network Server,No
+IL,Healthcare Provider,5319,Hacking/IT Incident,Email,No
+IL,Health Plan,5092,Hacking/IT Incident,Email,No
+TN,Healthcare Provider,3800,Hacking/IT Incident,Email,No
+,Healthcare Provider,305737,Hacking/IT Incident,Network Server,No
+TX,Healthcare Provider,5573,Hacking/IT Incident,Email,No
+MN,Healthcare Provider,11639,Hacking/IT Incident,Network Server,No
+OH,Healthcare Provider,1143,Hacking/IT Incident,Email,No
+TX,Healthcare Provider,5290,Hacking/IT Incident,Email,No
+MA,Healthcare Provider,11658,Hacking/IT Incident,Email,No
+FL,Healthcare Provider,35000,Unauthorized Access/Disclosure,Electronic Medical Record,No
+OR,Healthcare Provider,2952,Hacking/IT Incident,Email,No
+MN,Healthcare Provider,1200,Hacking/IT Incident,Email,No
+GA,Healthcare Provider,278016,Hacking/IT Incident,Email,No
+OH,Healthcare Provider,569,Hacking/IT Incident,Email,No
