@@ -1057,7 +1057,7 @@ NJ,Business Associate,8795,Theft,"Other, Other Portable Electronic Device",Yes
 WA,Health Plan,3950,Unauthorized Access/Disclosure,Paper/Films,No
 GA,Healthcare Provider,63425,Theft,"Other, Other Portable Electronic Device",No
 PR,Business Associate,5848,Theft,Other,Yes
-CO,,,,,No
+,,,,,
 TX,Business Associate,10345,Theft,Laptop,Yes
 IL,Healthcare Provider,815,Unauthorized Access/Disclosure,Laptop,No
 NJ,Business Associate,32008,Theft,"Other, Other Portable Electronic Device",Yes
@@ -1098,7 +1098,7 @@ MA,Healthcare Provider,599,Theft,Laptop,No
 FL,Healthcare Provider,12784,Unauthorized Access/Disclosure,Electronic Medical Record,No
 PA,Healthcare Provider,3150,Theft,Other,No
 PA,Healthcare Provider,500,Theft,Other,No
-NE,,,,,No
+,,,,,
 MA,Healthcare Provider,14750,Theft,Desktop Computer,No
 AR,Healthcare Provider,1472,Loss,Other,No
 MO,Business Associate,7059,Theft,Other,Yes
@@ -1121,12 +1121,12 @@ KS,Business Associate,8275,Theft,Other,Yes
 AL,Healthcare Provider,943434,Theft,Desktop Computer,No
 ND,Healthcare Provider,650,Theft,Laptop,No
 TX,Healthcare Provider,2464,Unauthorized Access/Disclosure,"Electronic Medical Record, Paper/Films",No
-AK,,,,,No
+,,,,,
 KY,Healthcare Provider,878,Loss,Other Portable Electronic Device,No
 TN,Health Plan,1770,Unauthorized Access/Disclosure,Paper/Films,No
 FL,Healthcare Provider,772,Loss,Other,No
 IN,Healthcare Provider,10705,Theft,Other,No
-CA,,,,,No
+,,,,,
 PA,Healthcare Provider,2900,Other,Paper/Films,No
 NY,Business Associate,7226,Unauthorized Access/Disclosure,Network Server,Yes
 IL,Business Associate,2000,Improper Disposal,Paper/Films,Yes
@@ -1144,7 +1144,7 @@ PA,Healthcare Provider,1300,Theft,Laptop,No
 MT,Business Associate,2700,Unauthorized Access/Disclosure,Other,Yes
 CA,Business Associate,1700,Other,Paper/Films,Yes
 NH,Healthcare Provider,771,Theft,Paper/Films,No
-NH,,,,,No
+,,,,,
 KS,Healthcare Provider,7757,Theft,Laptop,No
 CA,Health Plan,11646,Other,Paper/Films,No
 OK,Health Plan,844,Loss,Other,No
@@ -1196,7 +1196,7 @@ MI,Health Plan,1229,Unauthorized Access/Disclosure,Email,No
 MA,Healthcare Provider,6831,Loss,Paper/Films,No
 AZ,Healthcare Provider,9565,Loss,Other Portable Electronic Device,No
 CA,Healthcare Provider,1000,Unauthorized Access/Disclosure,Email,No
-NY,,,,,No
+,,,,,
 MI,Business Associate,555,Unauthorized Access/Disclosure,Paper/Films,Yes
 CA,Business Associate,2000,Theft,Other,Yes
 UT,Business Associate,780000,Hacking/IT Incident,Network Server,Yes
@@ -1212,7 +1212,7 @@ FL,Healthcare Provider,750,Theft,Paper/Films,No
 SC,Health Plan,228435,Unauthorized Access/Disclosure,Email,No
 OR,Healthcare Provider,550,Theft,Paper/Films,No
 CA,Healthcare Provider,961,Theft,Network Server,No
-PA,,,,,No
+,,,,,
 AZ,Healthcare Provider,42000,"Hacking/IT Incident, Unauthorized Access/Disclosure",Network Server,No
 TX,Healthcare Provider,750,Theft,Paper/Films,No
 MI,Healthcare Provider,3000,Hacking/IT Incident,Network Server,No
@@ -1254,7 +1254,7 @@ TX,Healthcare Provider,2462,Unauthorized Access/Disclosure,Electronic Medical Re
 IL,Healthcare Provider,1500,Theft,Paper/Films,No
 MN,Business Associate,2533,"Loss, Unauthorized Access/Disclosure, Unknown",Other Portable Electronic Device,Yes
 IA,Healthcare Provider,1298,Theft,Paper/Films,No
-CA,,,,,No
+,,,,,
 OR,Healthcare Provider,4354,"Hacking/IT Incident, Other, Unauthorized Access/Disclosure",Network Server,No
 NC,Healthcare Provider,2917,Loss,Other Portable Electronic Device,No
 MA,Healthcare Provider,3900,Theft,Laptop,No
@@ -1265,7 +1265,7 @@ AZ,Healthcare Provider,4800,Theft,Network Server,No
 IL,Healthcare Provider,4211,Theft,"Laptop, Other Portable Electronic Device",No
 IL,Healthcare Provider,1240,Theft,Paper/Films,No
 CT,Business Associate,7461,Theft,Laptop,Yes
-CT,,,,,No
+,,,,,
 OR,Healthcare Provider,702,Theft,Other,No
 CA,Healthcare Provider,2300,Theft,Desktop Computer,No
 TX,Healthcare Provider,2875,Theft,"Electronic Medical Record, Paper/Films",No
@@ -1288,7 +1288,7 @@ VA,Healthcare Provider,4873,Theft,Other Portable Electronic Device,No
 NV,Business Associate,5713,Loss,Other Portable Electronic Device,Yes
 CT,Healthcare Provider,5827,Theft,"Laptop, Other Portable Electronic Device",No
 NY,Healthcare Provider,13000,Theft,Laptop,No
-MO,,,,,No
+MO,Healthcare Provider,,,,No
 CA,Healthcare Provider,3031,Theft,Desktop Computer,No
 KY,Healthcare Provider,2500,Unauthorized Access/Disclosure,Email,No
 GA,Business Associate,13074,Improper Disposal,Paper/Films,Yes
@@ -1311,7 +1311,7 @@ NY,Business Associate,1017,Theft,Network Server,Yes
 IL,Business Associate,508,Theft,Paper/Films,Yes
 MI,Healthcare Provider,2777,Loss,"Other, Other Portable Electronic Device",No
 OH,Health Plan,,Theft,Laptop,No
-IN,,,,,No
+IN,Healthcare Provider,,,,No
 FL,Healthcare Provider,2560,Theft,Electronic Medical Record,No
 LA,Healthcare Provider,10271,"Theft, Unauthorized Access/Disclosure",Electronic Medical Record,No
 RI,Healthcare Provider,14004,Loss,Other Portable Electronic Device,No
@@ -1333,16 +1333,16 @@ OH,Healthcare Provider,613,Theft,Laptop,No
 IL,Business Associate,500,Unauthorized Access/Disclosure,Network Server,Yes
 NC,Healthcare Provider,1100,Improper Disposal,Paper/Films,No
 CA,Healthcare Provider,1370,Unauthorized Access/Disclosure,Paper/Films,No
-CA,,,,,No
+,,,,,
 CA,Business Associate,1500,"Theft, Unauthorized Access/Disclosure",Desktop Computer,Yes
 RI,Healthcare Provider,683,Theft,Laptop,No
 VA,Healthcare Provider,1846,Loss,Other Portable Electronic Device,No
 NC,Healthcare Provider,5600,Hacking/IT Incident,Email,No
 FL,Healthcare Provider,4907,Theft,Paper/Films,No
 TX,Healthcare Provider,6601,Unauthorized Access/Disclosure,"Network Server, Other",No
-AZ,,,,,No
-CA,,,,,No
-NV,,,,,No
+,,,,,
+,,,,,
+,,,,,
 NY,Healthcare Provider,4929,Theft,Desktop Computer,No
 AR,Health Plan,2863,Other,Paper/Films,No
 OH,Healthcare Provider,850,Theft,"Laptop, Network Server",No
@@ -1367,7 +1367,7 @@ LA,Healthcare Provider,1400,Theft,Laptop,No
 MA,Business Associate,4100,Hacking/IT Incident,Network Server,Yes
 NY,Healthcare Provider,19178,Theft,Laptop,No
 MO,Healthcare Provider,1105,Theft,Laptop,No
-CA,,,,,No
+,,,,,
 MD,Healthcare Provider,3230,Theft,Laptop,No
 PA,Healthcare Provider,1184,Loss,Other,No
 TX,Healthcare Provider,678,Unauthorized Access/Disclosure,Electronic Medical Record,No
@@ -1392,7 +1392,7 @@ GA,Healthcare Provider,1819,Theft,Laptop,No
 NM,Healthcare Provider,778,Theft,Laptop,No
 GA,Healthcare Provider,18000,Unauthorized Access/Disclosure,Network Server,No
 FL,,3667,Unauthorized Access/Disclosure,Paper/Films,Yes
-MD,,,,,No
+,,,,,
 SD,Healthcare Provider,8500,Theft,Desktop Computer,No
 AZ,Healthcare Provider,501,Theft,Laptop,No
 CA,Healthcare Provider,109000,Theft,Desktop Computer,No
@@ -1413,7 +1413,7 @@ MN,Business Associate,6400,Hacking/IT Incident,Network Server,Yes
 IN,Business Associate,1678,"Theft, Unauthorized Access/Disclosure",Network Server,Yes
 FL,Healthcare Provider,628,Theft,"Desktop Computer, Paper/Films",No
 OR,Healthcare Provider,3269,Theft,"Desktop Computer, Electronic Medical Record",No
-TX,,,,,No
+,,,,,
 MA,Healthcare Provider,8727,Hacking/IT Incident,Network Server,No
 MS,Healthcare Provider,500,Loss,Laptop,No
 UT,Healthcare Provider,2600,"Loss, Other, Theft",Paper/Films,No
@@ -1481,28 +1481,28 @@ CA,Health Plan,8331,Other,Paper/Films,No
 FL,Healthcare Provider,900,Theft,Laptop,No
 OH,Healthcare Provider,2203,Theft,Paper/Films,No
 NC,Healthcare Provider,609,Other,Email,No
-CA,,4479,Unauthorized Access/Disclosure,Email,Yes
+CA,Healthcare Provider,4479,Unauthorized Access/Disclosure,Email,Yes
 IL,Business Associate,3133,Other,Paper/Films,Yes
 CA,Business Associate,4718,Loss,Paper/Films,Yes
 TX,Healthcare Provider,2462,Theft,Laptop,No
 MN,Healthcare Provider,2764,Theft,Paper/Films,No
 TX,Business Associate,277014,Improper Disposal,Other,Yes
 CA,Healthcare Provider,2864,Unauthorized Access/Disclosure,Electronic Medical Record,No
-IL,,,,,No
-WY,,2700,Unauthorized Access/Disclosure,Desktop Computer,Yes
-MO,,4560,Unauthorized Access/Disclosure,Other,Yes
+IL,Healthcare Provider,,,,No
+WY,Healthcare Provider,2700,Unauthorized Access/Disclosure,Desktop Computer,Yes
+MO,Healthcare Provider,4560,Unauthorized Access/Disclosure,Other,Yes
 TX,Health Plan,21000,Unauthorized Access/Disclosure,Desktop Computer,No
 CA,Business Associate,800,"Hacking/IT Incident, Theft, Unauthorized Access/Disclosure","Desktop Computer, Network Server",Yes
-WV,,,,,No
+WV,Healthcare Provider,,,,No
 FL,Healthcare Provider,710,Theft,Desktop Computer,No
 NY,Healthcare Provider,2700,Loss,Other Portable Electronic Device,No
 LA,Healthcare Provider,6994,Unauthorized Access/Disclosure,Desktop Computer,No
-LA,,,,,No
+LA,Healthcare Provider,,,,No
 OR,Healthcare Provider,1361,Unauthorized Access/Disclosure,Other,No
-CA,,,,,No
+CA,Healthcare Provider,,,,No
 CO,Healthcare Provider,532,Unauthorized Access/Disclosure,Email,No
 CA,Healthcare Provider,1837,Theft,Laptop,No
-MO,,1357,Unauthorized Access/Disclosure,Paper/Films,Yes
+MO,Healthcare Provider,1357,Unauthorized Access/Disclosure,Paper/Films,Yes
 AR,Business Associate,1911,Theft,Laptop,Yes
 TX,Healthcare Provider,940,Unauthorized Access/Disclosure,Other Portable Electronic Device,No
 NV,Business Associate,32151,Unauthorized Access/Disclosure,Network Server,Yes
@@ -1531,8 +1531,8 @@ PR,Business Associate,5000,Theft,Network Server,Yes
 FL,Healthcare Provider,915,Theft,Other Portable Electronic Device,No
 TN,Healthcare Provider,4268,Loss,Other,No
 SC,Healthcare Clearing House,4204,Improper Disposal,Other,No
-IL,,2029,Hacking/IT Incident,Network Server,Yes
-IL,,998,Hacking/IT Incident,Network Server,Yes
+IL,Healthcare Provider,2029,Hacking/IT Incident,Network Server,Yes
+IL,Healthcare Provider,998,Hacking/IT Incident,Network Server,Yes
 NY,Healthcare Provider,8000,Theft,Network Server,No
 FL,Healthcare Provider,915,Unknown,Other,No
 CA,Healthcare Provider,1009,Unauthorized Access/Disclosure,Electronic Medical Record,No
@@ -1541,12 +1541,12 @@ FL,Healthcare Provider,9900,"Theft, Unauthorized Access/Disclosure","Desktop Com
 VA,Healthcare Provider,10228,Theft,Email,No
 OH,Healthcare Provider,1360,Theft,Laptop,No
 CA,Healthcare Provider,579,Theft,Laptop,No
-CO,,3512,Theft,Laptop,Yes
+CO,Healthcare Provider,3512,Theft,Laptop,Yes
 OH,Healthcare Provider,517,Theft,"Desktop Computer, Network Server",No
 TN,Healthcare Provider,6932,Theft,Laptop,No
 NJ,Healthcare Provider,2500,Theft,Laptop,No
 IA,Healthcare Provider,1825,Unauthorized Access/Disclosure,Electronic Medical Record,No
-GA,,5232,Theft,Email,Yes
+GA,Healthcare Provider,5232,Theft,Email,Yes
 CA,Healthcare Provider,3553,Theft,"Laptop, Paper/Films",No
 PA,Healthcare Provider,2350,Theft,Paper/Films,No
 WA,Healthcare Provider,1015,Other,Paper/Films,No
@@ -1567,8 +1567,8 @@ NY,Healthcare Provider,610,Loss,Other Portable Electronic Device,No
 TX,Healthcare Provider,949,Theft,Desktop Computer,No
 MI,Healthcare Provider,3947,Hacking/IT Incident,Network Server,No
 TX,Healthcare Provider,5500,Theft,Laptop,No
-NY,,10930,Unauthorized Access/Disclosure,Network Server,Yes
-NY,,37000,Unauthorized Access/Disclosure,Network Server,Yes
+NY,Healthcare Provider,10930,Unauthorized Access/Disclosure,Network Server,Yes
+NY,Healthcare Provider,37000,Unauthorized Access/Disclosure,Network Server,Yes
 CA,Healthcare Provider,3833,Theft,Laptop,No
 WI,Healthcare Provider,631,Theft,Laptop,No
 CA,Healthcare Provider,729000,Theft,Laptop,No
@@ -1622,7 +1622,7 @@ NE,Healthcare Provider,3857,Unauthorized Access/Disclosure,Email,No
 CA,Business Associate,1499,Unauthorized Access/Disclosure,Network Server,Yes
 WY,Health Plan,11935,Unauthorized Access/Disclosure,Network Server,No
 MT,Healthcare Provider,1900,Unauthorized Access/Disclosure,"Desktop Computer, Email",No
-WA,,,,,No
+,,,,,
 SC,Business Associate,3432,Theft,Laptop,Yes
 WY,Health Plan,11935,Hacking/IT Incident,Network Server,No
 TN,Business Associate,2777,Theft,Laptop,Yes
@@ -1634,26 +1634,26 @@ NC,Healthcare Provider,1683,Other,Paper/Films,No
 FL,Healthcare Provider,2354,Unauthorized Access/Disclosure,Desktop Computer,No
 FL,Healthcare Provider,9017,Hacking/IT Incident,"Laptop, Network Server",No
 NM,Healthcare Provider,12354,Theft,Laptop,No
-TX,,,,,No
+,,,,,
 CO,Business Associate,1918,Unauthorized Access/Disclosure,Email,Yes
 NJ,Business Associate,839711,Theft,Laptop,Yes
 GA,Healthcare Provider,6989,Loss,Desktop Computer,No
 WA,Healthcare Provider,2500,Theft,"Email, Laptop, Network Server",No
 MI,Business Associate,3000,Other,Paper/Films,Yes
 NC,Health Plan,48752,Unauthorized Access/Disclosure,Other,No
-NC,,,,,No
-GA,,,,,No
+,,,,,
+,,,,,
 CA,,2500,Theft,Laptop,Yes
 MS,Healthcare Provider,1489,Hacking/IT Incident,Network Server,No
 VA,Business Associate,25513,Theft,Paper/Films,Yes
 IL,Healthcare Provider,22511,Other,Email,No
-VA,,,,,No
-PA,,,,,No
+,,,,,
+,,,,,
 OH,Healthcare Provider,953,Unknown,Other,No
 OH,Health Plan,4230,Theft,Network Server,No
-MS,,,,,No
+,,,,,
 TN,Healthcare Provider,9602,Theft,Laptop,No
-TX,,,,,No
+,,,,,
 CT,Healthcare Provider,858,Theft,Paper/Films,No
 VA,Healthcare Provider,3861,"Theft, Unauthorized Access/Disclosure",Electronic Medical Record,No
 MI,Healthcare Provider,5370,Theft,Network Server,No
@@ -1686,7 +1686,7 @@ MN,Business Associate,10024,Unauthorized Access/Disclosure,Network Server,Yes
 MN,Business Associate,520,Unauthorized Access/Disclosure,Network Server,Yes
 MN,Business Associate,4786,Unauthorized Access/Disclosure,Network Server,Yes
 NJ,Healthcare Provider,1411,Theft,Desktop Computer,No
-CA,,,,,No
+,,,,,
 MN,Business Associate,1511,Unauthorized Access/Disclosure,Network Server,Yes
 VA,Healthcare Provider,3458,Theft,Laptop,No
 PA,Business Associate,8845,"Other, Unauthorized Access/Disclosure",Other,Yes
@@ -1704,7 +1704,7 @@ CA,Healthcare Provider,7800,Theft,Email,No
 CA,Healthcare Provider,9861,Theft,Desktop Computer,No
 MI,Healthcare Provider,1087,"Theft, Unauthorized Access/Disclosure",Paper/Films,No
 TX,Healthcare Provider,5000,Theft,Other,No
-PA,,,,,No
+,,,,,
 CO,Healthcare Provider,5415,Hacking/IT Incident,"Desktop Computer, Laptop",No
 AZ,Healthcare Provider,1706,Theft,Laptop,No
 TX,Business Associate,2260,"Improper Disposal, Loss",Other Portable Electronic Device,Yes
@@ -1734,7 +1734,7 @@ PR,Health Plan,5795,Theft,Other,No
 PR,Health Plan,17776,Theft,Other,No
 MI,Healthcare Provider,2595,Theft,Other Portable Electronic Device,No
 IL,Healthcare Provider,836,Other,Paper/Films,No
-FL,,,,,No
+,,,,,
 KS,Healthcare Provider,979,Loss,Paper/Films,No
 CT,Business Associate,527,Loss,Paper/Films,Yes
 VA,Business Associate,75026,Theft,Paper/Films,Yes
@@ -1839,8 +1839,8 @@ CO,Health Plan,11551,"Other, Unauthorized Access/Disclosure",Other,No
 TN,Healthcare Provider,28300,Improper Disposal,Other,No
 CA,Business Associate,1674,"Improper Disposal, Loss, Theft",Other,Yes
 GA,Business Associate,520,"Hacking/IT Incident, Other",Network Server,Yes
-GA,,,,,No
-TN,,,,,No
+,,,,,
+,,,,,
 MA,Business Associate,10000,"Loss, Theft",Paper/Films,Yes
 CA,Business Associate,49714,"Improper Disposal, Loss, Theft",Paper/Films,Yes
 MO,,4067,Hacking/IT Incident,Network Server,Yes
@@ -1848,7 +1848,7 @@ LA,Healthcare Provider,6073,Hacking/IT Incident,Network Server,No
 CA,Healthcare Provider,500,Theft,Paper/Films,No
 IL,Healthcare Provider,13646,Theft,Laptop,No
 TN,Business Associate,4500000,Theft,Network Server,Yes
-TN,,,,,No
+,,,,,
 OK,Healthcare Provider,6000,Unauthorized Access/Disclosure,Email,No
 OH,Healthcare Provider,6141,Theft,Network Server,No
 GA,Healthcare Provider,2350,Theft,Paper/Films,No
@@ -1873,7 +1873,7 @@ SC,Healthcare Provider,3637,Unauthorized Access/Disclosure,Paper/Films,No
 IL,Healthcare Provider,1866,Unauthorized Access/Disclosure,Paper/Films,No
 TX,Business Associate,2000000,Unauthorized Access/Disclosure,"Desktop Computer, Email, Laptop, Network Server, Other, Other Portable Electronic Device",Yes
 CA,Healthcare Provider,33136,Theft,Laptop,No
-FL,,,,,No
+,,,,,
 FL,Healthcare Provider,675,Unauthorized Access/Disclosure,Electronic Medical Record,No
 NM,Healthcare Provider,843,Theft,Other Portable Electronic Device,No
 TN,Business Associate,800,Theft,Paper/Films,Yes
@@ -1881,7 +1881,7 @@ IL,,767,Hacking/IT Incident,Email,Yes
 IL,Business Associate,767,Other,Email,Yes
 NM,Healthcare Provider,2657,Unauthorized Access/Disclosure,Paper/Films,No
 KY,Business Associate,4077,Unauthorized Access/Disclosure,Other Portable Electronic Device,Yes
-KY,,,,,No
+,,,,,
 CO,Healthcare Provider,523,Theft,Laptop,No
 LA,Healthcare Provider,707,Theft,"Laptop, Other",No
 AL,Healthcare Provider,2588,Theft,Laptop,No
@@ -1902,9 +1902,9 @@ TX,Business Associate,4500,Hacking/IT Incident,Network Server,Yes
 NY,Healthcare Provider,10058,Unauthorized Access/Disclosure,Paper/Films,No
 VA,Healthcare Provider,568,"Theft, Unauthorized Access/Disclosure",Paper/Films,No
 TX,Healthcare Provider,1000,Theft,Laptop,No
-NC,,,,,No
+,,,,,
 CA,Healthcare Provider,1863,Theft,Other,No
-GA,,,,,No
+,,,,,
 NJ,Business Associate,35357,Unauthorized Access/Disclosure,Network Server,Yes
 KY,Healthcare Provider,727,"Improper Disposal, Unauthorized Access/Disclosure",Paper/Films,No
 NY,Healthcare Provider,20000,Theft,Paper/Films,No
@@ -1912,7 +1912,7 @@ FL,Healthcare Provider,3500,Theft,Network Server,No
 TX,Health Plan,507,Loss,Other Portable Electronic Device,No
 OR,Healthcare Provider,1740,Theft,Paper/Films,No
 FL,Healthcare Provider,1782,Unauthorized Access/Disclosure,Email,No
-FL,,,,,No
+,,,,,
 PA,Healthcare Provider,13907,Theft,Laptop,No
 FL,Healthcare Provider,7888,Theft,"Desktop Computer, Network Server",No
 NC,Healthcare Provider,76258,Theft,Network Server,No
@@ -1945,14 +1945,14 @@ IL,Healthcare Provider,160000,Other,Paper/Films,No
 CO,Healthcare Provider,5000,Theft,Laptop,No
 OR,Healthcare Provider,41000,Theft,Laptop,No
 CA,Healthcare Provider,,Hacking/IT Incident,Other,No
-IL,,,,,No
+,,,,,
 PA,Health Plan,12450,Improper Disposal,Paper/Films,No
 CA,Healthcare Provider,,Theft,"Laptop, Other Portable Electronic Device, Paper/Films",No
 FL,Healthcare Provider,1859,Unauthorized Access/Disclosure,Email,No
 TX,Healthcare Provider,7029,Hacking/IT Incident,Network Server,No
 MO,Healthcare Provider,4000,Unauthorized Access/Disclosure,"Email, Network Server",No
 IN,Healthcare Provider,43890,Theft,Laptop,No
-MI,,,,,No
+,,,,,
 CA,Healthcare Provider,1030,Theft,Desktop Computer,No
 TN,Health Plan,79000,Unauthorized Access/Disclosure,Other,No
 OH,Healthcare Provider,833,Unauthorized Access/Disclosure,Electronic Medical Record,No
