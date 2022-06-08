@@ -2422,7 +2422,7 @@ CA,,596,Theft,Other,No
 NC,,2000,Hacking/IT Incident,"Desktop Computer, Network Server, Electronic Medical Record",Yes
 MI,,10000,Theft,Other Portable Electronic Device,No
 MI,,646,Theft,"Laptop, Desktop Computer",No
-CA,,610,Other,E-mail,No
+CA,,610,Other,Email,No
 MA,,1860,Theft,"Other Portable Electronic Device, Other, Electronic Medical Record",No
 MA,,1076,Theft,Other,No
 DC,,3400,Theft,Paper,Yes
@@ -2460,7 +2460,7 @@ WA,,5080,Theft,Laptop,No
 FL,,2600,Theft,Laptop,No
 CT,,957,Hacking/IT Incident,Network Server,No
 AL,,2465,Theft,Laptop,No
-TX,,768,Unauthorized Access/Disclosure ,E-mail,Yes
+TX,,768,Unauthorized Access/Disclosure ,Email,Yes
 AZ,,2773,Theft,Other Portable Electronic Device,No
 PA,,8000,"Theft, Loss",Paper,No
 MI,,83945,Other,Other,No
@@ -2484,7 +2484,7 @@ IL,,180111,Theft,"Other Portable Electronic Device, Other",Yes
 CO,,649,Theft,Paper,No
 FL,,568,Loss,Paper,No
 TX,,4200,Theft,Laptop,No
-DC,,2416,"Theft, Other","E-mail, Other Portable Electronic Device",No
+DC,,2416,"Theft, Other","Email, Other Portable Electronic Device",No
 CA,,40000,Theft,Network Server,No
 CA,,584,Theft,Desktop Computer,No
 DC,,656,Theft,Laptop,Yes
@@ -2504,12 +2504,12 @@ MI,,2300,Theft,Laptop,No
 KY,,708,Hacking/IT Incident,Network Server,No
 TN,,1745,Loss,Laptop,No
 TN,,10515,Theft,Laptop,Yes
-OH,,1001,Other,E-mail,No
+OH,,1001,Other,Email,No
 NY,,1020,Theft,"Laptop, Desktop Computer, Network Server, E-mail",No
 TX,,600,Theft,Network Server,No
 GA,,14000,Loss,Other,Yes
 NV,,7526,Theft,Network Server,No
-MD,,937,Other,E-mail,Yes
+MD,,937,Other,Email,Yes
 AZ,,5893,Theft,Laptop,No
 CA,,1000,Other,Paper,No
 TN,,1537,Other,"Desktop Computer, Paper",No
@@ -2621,7 +2621,7 @@ CA,,1250,Theft,"Other Portable Electronic Device, Other",No
 WI,,585,Unauthorized Access/Disclosure,Other,Yes
 IN,,757,Theft,Laptop,Yes
 MN,,3159,Theft,Laptop,No
-PA,,2928,Unauthorized Access/Disclosure,E-mail,No
+PA,,2928,Unauthorized Access/Disclosure,Email,No
 KY,,24600,"Theft, Loss","Other Portable Electronic Device, Other",No
 MD,,800,Theft,Paper,Yes
 AL,,2000,Theft,"Other Portable Electronic Device, Other",No
@@ -2708,7 +2708,7 @@ SC,,400000,Theft,Desktop Computer,No
 KY,,1986,"Theft, Loss","Other Portable Electronic Device, Other",No
 WA,,2700,Unknown,Paper,No
 OR,,17000,Theft,"Other Portable Electronic Device, Other",Yes
-NC,,1263,Unknown,E-mail,No
+NC,,1263,Unknown,Email,No
 AZ,,2000,"Loss, Improper Disposal",Paper,No
 SC,,1280,Theft,"Other Portable Electronic Device, Other",No
 CA,,1192,Loss,Paper,Yes
@@ -2849,7 +2849,7 @@ VA,,1444,"Unauthorized Access/Disclosure, Other",Paper,Yes
 NY,,549,Theft,Laptop,No
 IN,,1423,"Theft, Unauthorized Access/Disclosure",Paper,No
 WA,,3100,Theft,Desktop Computer,No
-CO,,3200,"Hacking/IT Incident, Other",E-mail,No
+CO,,3200,"Hacking/IT Incident, Other",Email,No
 FL,,1219,Theft,Other Portable Electronic Device,No
 MN,,6678,Other,Paper,No
 NC,,2000,Theft,Laptop,No
@@ -2888,12 +2888,12 @@ MA,,3482,Other,Paper,Yes
 NC,,1370,Unauthorized Access/Disclosure,Other,No
 CA,,712,Theft,Paper,No
 MN,,3537,Unauthorized Access/Disclosure,Other,No
-NY,,642,Unauthorized Access/Disclosure,E-mail,No
+NY,,642,Unauthorized Access/Disclosure,Email,No
 TX,,502,Theft,Paper,No
-MI,,1229,Unauthorized Access/Disclosure,E-mail,No
+MI,,1229,Unauthorized Access/Disclosure,Email,No
 MA,,6831,Loss,Paper,No
 AZ,,9565,Loss,Other Portable Electronic Device,No
-CA,,1000,Unauthorized Access/Disclosure,E-mail,No
+CA,,1000,Unauthorized Access/Disclosure,Email,No
 TX,,555,Unauthorized Access/Disclosure,Paper,Yes
 CA,,2000,Theft,Other,Yes
 UT,,780000,Hacking/IT Incident,Network Server,Yes
@@ -2907,7 +2907,7 @@ OR,,20915,Theft,Desktop Computer,No
 CA,,4400,Theft,Desktop Computer,No
 AR,,7121,Unauthorized Access/Disclosure,Other,No
 FL,,750,Theft,Paper,No
-SC,,228435,Unauthorized Access/Disclosure,E-mail,No
+SC,,228435,Unauthorized Access/Disclosure,Email,No
 OR,,550,Theft,Paper,No
 CA,,961,Theft,Network Server,No
 AZ,,42000,"Unauthorized Access/Disclosure, Hacking/IT Incident",Network Server,No
@@ -2918,7 +2918,7 @@ AL,,1655,Improper Disposal,Paper,No
 TX,,7000,"Unauthorized Access/Disclosure, Hacking/IT Incident",Network Server,No
 WV,,2905,Theft,Paper,No
 IA,,3000,Improper Disposal,Paper,No
-MO,,1134,Unauthorized Access/Disclosure,E-mail,No
+MO,,1134,Unauthorized Access/Disclosure,Email,No
 MN,,4000,Theft,Laptop,No
 CA,,3900,Loss,Other Portable Electronic Device,No
 MN,,623,Theft,Laptop,Yes
@@ -2941,7 +2941,7 @@ GA,,824,Loss,Other Portable Electronic Device,No
 IN,,1444,Theft,Laptop,Yes
 FL,,2557,Theft,Other Portable Electronic Device,No
 OR,,11136,Theft,Desktop Computer,No
-NY,,568,Theft,"E-mail, Other",No
+NY,,568,Theft,"Email, Other",No
 FL,,1409,Theft,Paper,No
 KY,,4490,Theft,Laptop,No
 KY,,824,Theft,Laptop,No
@@ -2988,7 +2988,7 @@ AR,,5713,Loss,Other Portable Electronic Device,Yes
 CT,,5827,Theft,"Laptop, Other Portable Electronic Device",No
 NY,,13000,Theft,Laptop,No
 CA,,3031,Theft,Desktop Computer,No
-KY,,2500,Unauthorized Access/Disclosure,E-mail,No
+KY,,2500,Unauthorized Access/Disclosure,Email,No
 MO,,13074,Improper Disposal,Paper,Yes
 CA,,65700,Theft,Laptop,No
 KY,,2376,Loss,Other Portable Electronic Device,No
@@ -3031,7 +3031,7 @@ RI,,683,Theft,Laptop,No
 GA,,908,Theft,Desktop Computer,Yes
 VA,,1846,Loss,Other Portable Electronic Device,No
 FL,,949,Theft,Desktop Computer,Yes
-NC,,5600,Hacking/IT Incident,E-mail,No
+NC,,5600,Hacking/IT Incident,Email,No
 FL,,4907,Theft,Paper,No
 TX,,6601,Unauthorized Access/Disclosure,"Network Server, Other",No
 MA,,1286,Theft,Desktop Computer,Yes
@@ -3098,7 +3098,7 @@ NY,,28187,Theft,Other Portable Electronic Device,Yes
 IL,,500,Unauthorized Access/Disclosure,Other,Yes
 FL,,834,Unauthorized Access/Disclosure,Electronic Medical Record,No
 PA,,527,Theft,Paper,No
-ME,,1920,Other,E-mail,No
+ME,,1920,Other,Email,No
 CA,,18162,Theft,Laptop,Yes
 UT,,6332,Loss,Other Portable Electronic Device,Yes
 OH,,1200,Theft,Desktop Computer,No
@@ -3130,7 +3130,7 @@ MO,,589,Theft,Paper,No
 OR,,1076,Theft,Laptop,No
 IN,,3131,Unauthorized Access/Disclosure,Other,No
 NY,,1416,Theft,Desktop Computer,No
-TX,,818,Other,E-mail,No
+TX,,818,Other,Email,No
 UT,,857,Unauthorized Access/Disclosure,Other,No
 UT,,700,Theft,Desktop Computer,No
 PA,,14829,Loss,Paper,Yes
@@ -3142,12 +3142,12 @@ NY,,537,Loss,Other Portable Electronic Device,No
 TX,,22000,Loss,Other Portable Electronic Device,Yes
 CA,,189489,Improper Disposal,Paper,Yes
 WA,,750,Improper Disposal,Paper,No
-TN,,1180,Unauthorized Access/Disclosure,E-mail,No
+TN,,1180,Unauthorized Access/Disclosure,Email,No
 NC,,9988,Hacking/IT Incident,Network Server,Yes
 TN,,539,Other,Desktop Computer,Yes
 NC,,1924,Hacking/IT Incident,Network Server,Yes
 IN,,10350,Theft,Laptop,No
-NY,,10000,Other,E-mail,No
+NY,,10000,Other,Email,No
 OH,,9577,Loss,Laptop,No
 PA,,7803,Hacking/IT Incident,Network Server,No
 IN,,5388,Improper Disposal,Other,Yes
@@ -3157,13 +3157,13 @@ AL,,3164,Theft,Laptop,Yes
 NY,,2434,Theft,Laptop,No
 CA,,1386,Other,Other,No
 FL,,5875,"Theft, Unauthorized Access/Disclosure",Electronic Medical Record,No
-OH,,1167,Theft,E-mail,No
+OH,,1167,Theft,Email,No
 MA,,1670,Hacking/IT Incident,Desktop Computer,No
 FL,,877,Unauthorized Access/Disclosure,Desktop Computer,No
 CA,,12900,Theft,Laptop,No
 NC,,1093,Improper Disposal,Paper,No
 OR,,959,Unauthorized Access/Disclosure,Paper,No
-MO,,1127,Improper Disposal,E-mail,No
+MO,,1127,Improper Disposal,Email,No
 FL,,9626,"Theft, Unauthorized Access/Disclosure","Desktop Computer, Network Server, E-mail, Electronic Medical Record, Paper",No
 FL,,5200,Unauthorized Access/Disclosure,Paper,No
 IA,,7335,"Loss, Unknown",Other,No
@@ -3175,8 +3175,8 @@ VA,,4305,Theft,Paper,Yes
 CA,,8331,Other,Paper,No
 FL,,900,Theft,Laptop,No
 OH,,2203,Other,Paper,No
-NC,,609,Other,E-mail,No
-CA,,4479,Unauthorized Access/Disclosure,E-mail,Yes
+NC,,609,Other,Email,No
+CA,,4479,Unauthorized Access/Disclosure,Email,Yes
 IL,,3133,Other,Paper,Yes
 PA,,4718,Loss,Paper,Yes
 MN,,2764,Loss,Paper,No
@@ -3208,7 +3208,7 @@ IL,,4029530,Theft,Desktop Computer,No
 CO,,921,Hacking/IT Incident,Desktop Computer,No
 TX,,596,"Theft, Loss",Laptop,No
 CA,,32000,Other,Network Server,Yes
-GA,,654,Other,E-mail,No
+GA,,654,Other,Email,No
 MO,,2600,Theft,"Laptop, Other Portable Electronic Device",No
 CO,,1500,Theft,Laptop,No
 MO,,10000,Theft,"Desktop Computer, Network Server",No
@@ -3225,7 +3225,7 @@ FL,,916,Unknown,Other,No
 CA,,1009,Unauthorized Access/Disclosure,Electronic Medical Record,No
 MO,,25461,Unauthorized Access/Disclosure,Paper,Yes
 FL,,9900,"Theft, Unauthorized Access/Disclosure","Desktop Computer, Network Server",No
-VA,,10228,Hacking/IT Incident,E-mail,No
+VA,,10228,Hacking/IT Incident,Email,No
 OH,,1360,Theft,Laptop,No
 CA,,579,Theft,Laptop,No
 CO,,3512,Theft,Laptop,Yes
@@ -3233,22 +3233,22 @@ OH,,517,Theft,Network Server,No
 TN,,6932,Theft,Laptop,No
 NJ,,2500,Theft,Laptop,No
 IA,,1825,Unauthorized Access/Disclosure,Electronic Medical Record,No
-GA,,5232,Theft,E-mail,Yes
+GA,,5232,Theft,Email,Yes
 CA,,3553,Theft,"Laptop, Paper",No
 PA,,2350,"Theft, Unauthorized Access/Disclosure",Paper,No
 WA,,1015,Other,Paper,No
 PA,,2810,Theft,Laptop,No
-NC,,1310,Other,E-mail,No
+NC,,1310,Other,Email,No
 NY,,1586,Improper Disposal,Paper,No
 WI,,4330,Unauthorized Access/Disclosure,Paper,Yes
-MO,,3100,Unauthorized Access/Disclosure,E-mail,No
+MO,,3100,Unauthorized Access/Disclosure,Email,No
 SC,,7120,Hacking/IT Incident,Network Server,Yes
 MI,,3947,Hacking/IT Incident,Network Server,No
 IN,,566,Theft,Laptop,No
 CO,,606,Improper Disposal,Paper,No
-IL,,1067,Unauthorized Access/Disclosure,E-mail,No
+IL,,1067,Unauthorized Access/Disclosure,Email,No
 VT,,550,Theft,Laptop,No
-AK,,1556,Unauthorized Access/Disclosure,E-mail,No
+AK,,1556,Unauthorized Access/Disclosure,Email,No
 FL,,960,Unauthorized Access/Disclosure,Desktop Computer,No
 VA,,3645,Theft,"Electronic Medical Record, Paper",No
 NY,,610,Loss,Other Portable Electronic Device,No
@@ -3256,7 +3256,7 @@ TX,,949,Theft,Desktop Computer,No
 TX,,5500,Theft,Laptop,No
 NY,,10930,Unauthorized Access/Disclosure,Network Server,Yes
 NY,,37000,Unauthorized Access/Disclosure,Network Server,Yes
-MO,,1300,Unauthorized Access/Disclosure,E-mail,Yes
+MO,,1300,Unauthorized Access/Disclosure,Email,Yes
 CA,,3833,Theft,Laptop,No
 WI,,631,Theft,Laptop,No
 CA,,729000,Theft,Laptop,No
@@ -3276,7 +3276,7 @@ PR,,13336,Unauthorized Access/Disclosure,Paper,Yes
 PR,,70189,Unauthorized Access/Disclosure,Paper,No
 NC,,7300,Other,Other,No
 ND,,2000,"Theft, Other",Paper,No
-MD,,7606,Unauthorized Access/Disclosure,E-mail,No
+MD,,7606,Unauthorized Access/Disclosure,Email,No
 AZ,,1456,Theft,Other,Yes
 NY,,2279,Loss,Other Portable Electronic Device,No
 FL,,3804,Theft,Laptop,Yes
@@ -3290,7 +3290,7 @@ WA,,950,Theft,Laptop,No
 PA,,1279,Unauthorized Access/Disclosure,Electronic Medical Record,No
 WA,,76183,Hacking/IT Incident,Desktop Computer,No
 IL,,2080,Unauthorized Access/Disclosure,Network Server,No
-IL,,1573,Unauthorized Access/Disclosure,E-mail,Yes
+IL,,1573,Unauthorized Access/Disclosure,Email,Yes
 IL,,1891,"Theft, Loss",Laptop,No
 GA,,5000,Other,Desktop Computer,No
 GA,,4500,Theft,Laptop,No
@@ -3300,7 +3300,7 @@ FL,,4400,Unauthorized Access/Disclosure,Desktop Computer,No
 GA,,4879,Loss,Laptop,No
 KY,,535,Theft,Other Portable Electronic Device,No
 CA,,59000,Hacking/IT Incident,Network Server,No
-NE,,3857,Other,E-mail,No
+NE,,3857,Other,Email,No
 NJ,,9642,Loss,Other Portable Electronic Device,Yes
 VA,,1499,Unauthorized Access/Disclosure,Network Server,Yes
 WY,,11935,Unauthorized Access/Disclosure,Network Server,No
@@ -3310,11 +3310,11 @@ TN,,2777,Theft,Laptop,Yes
 PA,,1674,Loss,Paper,Yes
 TX,,2826,Other,Paper,No
 CA,,1400,Theft,Desktop Computer,No
-MA,,832,Unauthorized Access/Disclosure,E-mail,No
+MA,,832,Unauthorized Access/Disclosure,Email,No
 NC,,1683,Other,Paper,No
 FL,,2354,Unauthorized Access/Disclosure,Desktop Computer,No
 NM,,12354,Theft,Laptop,No
-CO,,1918,Unauthorized Access/Disclosure,E-mail,Yes
+CO,,1918,Unauthorized Access/Disclosure,Email,Yes
 NJ,,839711,Theft,Laptop,No
 GA,,6989,Loss,Desktop Computer,No
 WA,,2500,Unauthorized Access/Disclosure,"Laptop, Network Server, E-mail",No
@@ -3323,7 +3323,7 @@ NC,,48752,Unauthorized Access/Disclosure,Other,No
 CA,,2500,Theft,Laptop,Yes
 MS,,1489,Hacking/IT Incident,Network Server,No
 VA,,25513,"Unauthorized Access/Disclosure, Other",Paper,Yes
-IL,,22511,Other,E-mail,No
+IL,,22511,Other,Email,No
 OH,,953,Unknown,Other,No
 CA,,611,Theft,Laptop,No
 PR,,398000,Theft,Network Server,Yes
@@ -3350,7 +3350,7 @@ NY,,6475,"Theft, Other",Laptop,No
 FL,,13074,Loss,Paper,No
 PA,,593,Unauthorized Access/Disclosure,Network Server,No
 OH,,1139,Other,Other,No
-CA,,2269,Hacking/IT Incident,E-mail,No
+CA,,2269,Hacking/IT Incident,Email,No
 IN,,1142,Theft,Laptop,No
 MO,,10024,Unauthorized Access/Disclosure,Network Server,Yes
 CA,,520,Unauthorized Access/Disclosure,Network Server,Yes
@@ -3370,7 +3370,7 @@ AL,,1145,Hacking/IT Incident,Network Server,Yes
 AL,,1179,Hacking/IT Incident,Network Server,Yes
 IA,,2042,Other,"Laptop, E-mail, Other Portable Electronic Device",No
 CA,,5400,Theft,"Desktop Computer, E-mail",Yes
-CA,,7800,Theft,E-mail,No
+CA,,7800,Theft,Email,No
 PA,,5000,Other,Other,No
 CA,,9861,Theft,Desktop Computer,No
 MI,,1087,"Theft, Unauthorized Access/Disclosure",Paper,No
@@ -3389,14 +3389,14 @@ KY,,1079,Theft,Laptop,Yes
 MT,,543,Theft,Paper,No
 FL,,586,Loss,Other Portable Electronic Device,No
 VA,,5534,"Loss, Other",Other Portable Electronic Device,No
-PA,,657,Unauthorized Access/Disclosure,E-mail,No
-KY,,2992,Other,E-mail,No
-WA,,8300,Other,E-mail,No
+PA,,657,Unauthorized Access/Disclosure,Email,No
+KY,,2992,Other,Email,No
+WA,,8300,Other,Email,No
 CA,,5499,Theft,Other Portable Electronic Device,No
-UT,,643,Unauthorized Access/Disclosure,E-mail,No
+UT,,643,Unauthorized Access/Disclosure,Email,No
 TX,,1000,Unauthorized Access/Disclosure,Other,Yes
 FL,,580,Unauthorized Access/Disclosure,Paper,Yes
-IL,,1256,Hacking/IT Incident,E-mail,No
+IL,,1256,Hacking/IT Incident,Email,No
 TX,,2934,Theft,"Laptop, Desktop Computer, Other Portable Electronic Device",Yes
 CA,,5178,Hacking/IT Incident,Network Server,No
 PR,,5795,Theft,Other,No
@@ -3419,46 +3419,46 @@ IA,,1400,Other,Other,Yes
 ID,,6900,Theft,Other Portable Electronic Device,No
 MD,,46771,Theft,Laptop,No
 PA,,733,Theft,Laptop,No
-CO,,12286,Hacking/IT Incident,E-mail,No
+CO,,12286,Hacking/IT Incident,Email,No
 FL,,2365,"Theft, Unauthorized Access/Disclosure",Laptop,No
 MA,,8830,Theft,Other,No
 MD,,2200,Unauthorized Access/Disclosure,Paper,Yes
-NY,,4830,Unauthorized Access/Disclosure,E-mail,No
+NY,,4830,Unauthorized Access/Disclosure,Email,No
 UT,,9800,Hacking/IT Incident,Network Server,Yes
-TX,,1253,Hacking/IT Incident,E-mail,No
-TX,,2308,Hacking/IT Incident,E-mail,No
-TX,,1981,Hacking/IT Incident,E-mail,No
-TX,,2742,Hacking/IT Incident,E-mail,No
+TX,,1253,Hacking/IT Incident,Email,No
+TX,,2308,Hacking/IT Incident,Email,No
+TX,,1981,Hacking/IT Incident,Email,No
+TX,,2742,Hacking/IT Incident,Email,No
 IN,,1361,Hacking/IT Incident,Network Server,Yes
 IA,,862,Unauthorized Access/Disclosure,Paper,No
 AL,,629,Theft,Paper,No
 PA,,1845,Loss,Paper,No
 OH,,5696,Other,Paper,Yes
 MA,,2387,Unauthorized Access/Disclosure,"Electronic Medical Record, Paper",No
-KY,,1008,Other,E-mail,Yes
+KY,,1008,Other,Email,Yes
 NJ,,2828,"Theft, Unauthorized Access/Disclosure",Paper,No
 CA,,4744,Other,Paper,Yes
 TX,,1000,Theft,Laptop,No
 NJ,,1749,Other,Network Server,Yes
 PR,,11531,Unauthorized Access/Disclosure,Paper,No
 OR,,17914,Unauthorized Access/Disclosure,Other,No
-MI,,502,"Unauthorized Access/Disclosure, Hacking/IT Incident",E-mail,Yes
+MI,,502,"Unauthorized Access/Disclosure, Hacking/IT Incident",Email,Yes
 NH,,1208,Theft,Desktop Computer,No
 KY,,2962,Theft,Other Portable Electronic Device,No
 NY,,26162,Unauthorized Access/Disclosure,Desktop Computer,No
 OH,,594,Unauthorized Access/Disclosure,"Network Server, Electronic Medical Record",No
 PR,,56853,Unauthorized Access/Disclosure,Paper,No
 CT,,3814,Theft,Laptop,Yes
-KS,,9640,Unauthorized Access/Disclosure,E-mail,No
+KS,,9640,Unauthorized Access/Disclosure,Email,No
 PA,,2589,"Loss, Unauthorized Access/Disclosure",Paper,No
 CA,,5845,Theft,Desktop Computer,No
-PA,,1801,Other,"E-mail, Other Portable Electronic Device",No
+PA,,1801,Other,"Email, Other Portable Electronic Device",No
 IL,,540,Theft,"Desktop Computer, Paper",No
-GA,,1175,Other,E-mail,No
+GA,,1175,Other,Email,No
 PR,,28413,Theft,Other,Yes
 FL,,1831,Hacking/IT Incident,Other,Yes
 CA,,33702,"Theft, Loss",Other Portable Electronic Device,No
-MI,,2289,Unauthorized Access/Disclosure,E-mail,No
+MI,,2289,Unauthorized Access/Disclosure,Email,No
 CA,,5471,Theft,Desktop Computer,No
 MI,Health Plan,1612,Hacking/IT Incident,Network Server,No
 TX,Healthcare Provider,1594,Unauthorized Access/Disclosure,Email,No
